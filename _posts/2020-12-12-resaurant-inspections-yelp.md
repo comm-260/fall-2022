@@ -33,7 +33,7 @@ Nobel herself does not believe that Yelp ratings are generally indicative of bad
 
 “Things have to be really bad for someone to notice and put that in a review--like cockroaches on the floor or pigeons in the restaurant,” She says. The latter Nobel experienced in Chinatown Restaurant during her experiment. She notes, “People don’t usually know what goes on in the kitchen.”
 
-##The impact of Yelp ratings on restaurants
+## The impact of Yelp ratings on restaurants
 
 Restaurant owners are well-aware of the distance between Yelp ratings and inspection scores.
 
@@ -53,7 +53,7 @@ Additionally, Yelp does not have a system of verification that proves customers 
 
 “It's really your word against the public,” Lyons says. “Someone who may not have even ever come to your restaurant but simply doesn’t like you for another reason can go online and make anything up and be published. And that hurts your business.”
 
-##Preference-based reviews
+## Preference-based reviews
 
 On top of fraudulent and misplaced reviews, many Yelp reviews are preference-based. In Maricopa County, where around 24,000 businesses are listed on Yelp, the phrase “my preference” appears in 240 unique reviews, as does the phrase “for my taste.” Yelp only allows 240 results per keyword search, so the real figures are likely much higher.
 
@@ -63,7 +63,7 @@ Lyons thinks that the Yelp Elite program might have something to do with prefere
 
 Yelp Elite is a program in which, after posting a high number of reviews and regularly engaging with other users on Yelp, a Yelper earns a special profile tag that labels them as “Elite.” Elite members are invited to exclusive events hosted by Yelp. Through Yelp Elite, Yelpers are rewarded for writing reviews when they may not have otherwise.
 
-##Yelp’s health scores
+## Yelp’s health scores
 
 Not long after Nobel’s article was published, Yelp started posting “health scores” on most restaurant pages, a practice that had previously only been instituted in a handful of cities. The health scores do not represent recent state or county grades, but rather an algorithmic average based on past scores and violations.
 
@@ -81,7 +81,7 @@ Yelp’s system, Borden concludes, is neither transparent nor fair. She notes th
 
 Lyons, Borden, and Nobel conclude that Yelp yields an unfair and unreliable power over businesses.   
 
-##The problem with inspection data
+## The problem with inspection data
 
 For consumers who care about restaurant sanitation, state and county records may be as unreliable as Yelp’s health scores.
 
@@ -121,7 +121,7 @@ Ironically, inspection grading systems like Maricopa’s are the reason for Yelp
 
 “There’s an incentive for health inspectors and restaurateurs to have esoteric language that keeps consumers out of the loop,” Luther Lowe, Yelp’s vice president for public policy, [told the Washington City Paper](https://washingtoncitypaper.com/article/184847/do-yelps-health-scores-accurately-capture-the-cleanliness-of-dc-restaurants/). “We’re trying to give them a seat at the table.”
 
- ##A world without Yelp
+ ## A world without Yelp
 
  In 2020, restaurateur Billy Godwin took over the Sunrise Cafe in Maricopa County after the original owners lost the business during the Covid-19 lockdown. Though the cafe has an added “New” in its name, the original Yelp page still exists, with corresponding contact information, hours of operation, and recent reviews.
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Mission and Tenderloin District remain to be San Francisco’s Crime Hot Spots"
 date:   2020-12-12 18:49:00
 categories: map
-img: scatter.png
+img: tenderloin.png
 author: Elizabeth Posada
 categories: [one, two]
 ---
