@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Mission and Tenderloin District remain to be San Francisco’s Crime Hot Spots"
+date:   2020-12-12 18:49:00
+categories: map
+img: scatter.png
+author: Elizabeth Posada
+categories: [one, two]
+---
+
+Since 2018, The San Francisco Police department has had a decrease of incidents reported within its 36 different neighborhoods. Despite its 34% decrease in cases, two neighborhoods still remain to have the highest amount of cases - The Mission and Tenderloin district.
+
+Between 2018 and 2020 The Mission District, located east central of San Francisco, had decreased their number of incident reports by 7,524. 
+
+Founded in 1776, the Mission District was the first the neighborhood to be settled in San Francisco by European missionaries, penning its name. Today, the Mission District is home to a large Hispanic community.
+
+Although Mission is home to a diverse and rich history, it is San Francisco’s most dangerous neighborhood with a total of 405,024 incidents reports as of 2020.  With 124,013 of cases being larceny and theft. 
+
+Following the Mission district, the tenderloin District remained to have highest amount of incident reports in both 2018 and 2020. With only decreasing their cases by 33%, between 2018-20. 
+
+ Located in downtown San Francisco, the Tenderloin district has been a safe haven for outcasts since its founding. With many of its community being refugees from the Vietnam war. Since then Tenderloin has become a beacon of goodwill in the bay area, provided by nonprofit organizations that have created housing and community aid. Similar to Mission, Tenderloins top category of incidents is of Larceny and theft.
+
+However, another pattern found in the incident reports by the San Francisco police department was the Intersections where the incidents occurred.
+
+In 2018, Tenderloins district Top incident intersection was 8TH ST/ Grove ST/ Hyde ST/ Market ST with 637 reports, With most of the incidents reported being related to Drug offenses. However, in 2020 that changed with Golden Gate AVE / Hyde ST, taking the top spot with 560 Reports. 
+
+Being That the Tenderloin District has become notorious with its growing Illegal drug Market, its high number in drug offense reports is no surprise. Most of the drugs being sold in the district include heroin, Meth, Fentanyl and Cocaine. In fact, 8th ST/ Grove ST/ Hyde ST/ Market ST had the highest amount of drug offenses because the intersection is an entrance to The Civic Center Station, which has garnered the attention of drug dealers as market spot. Similarly, in 2020 that market spot moved to Golden Gate AVE/ Hyde ST, where just as September a Tenderloin Drug Dealer was accused of Trafficking Fentanyl.
+
+As for the Mission District, most incidents reports from 2018 came from the 16th ST/ Mission ST intersection, most of which were larceny theft.  However, In 2020 16th ST/ Mission remained at the top spot for most incidents, even though they had a decrease in crime reported.
+
+
+
+
+
+ 
+
+
+
+
+16th ST/Mission ST, also known as BART station, gained the reputation of being the most dangerous area in mission district. Gaining reports of Theft, Rape, Assault, and even shootings. 
+
+The most recent event of crime in Mission was just a week ago, that involved the police and a man engaging in a deadly alteration; which left the man in a life-threatening condition.
+
+Although there has been a decrease in crime within the Bay area Community from 2018. Crime still remains to be prevalent issue in San Francisco.  Despite the global pandemic the SF area still faced high rates of crimes, specifically after lockdown ended in March. Between May to August 2020, SF experienced a surge of crime, especially Burglary, Arson and Homicide. But due to the recent political climate and rise in the BLM movement, The San Francisco Police has been under fire for its failure to report and put an end to crimes. 
+The San Francisco Police Media Relations Unit had nothing to comment on the crime rates found in Mission and Tenderloin , and any future plans to further decrease crime.
+
+One Organization that has been taking matter into their own hands has been STOP CRIME SF, which focuses on reducing and preventing crime in San Francisco. In August 2020 Frank Noto, president of STOP CRIME SF, said in a press release following the rise in cases over the summer that the increase in crime could be blamed on San Francisco District attorney Chesa Boudin. Who during his time in office has failed to prosecute many criminals that hold charges of burglary, murder, and drug possession.
+
+An example of Boudins failure to solve crime in San Francisco is the case of Delvon Carter and Jared Wilson. According to the San Francisco Chronicle, in early 2020 Delvon Carter, 21, and Jared Wilson, 31, were arrested for multiple accounts of Auto burglary that spanned across the bay area. Additionally, Carter and Wilson had multiple accounts of stolen property from a total of 18 victims. Following the arrest Wilson was released on bail and Carter was offered probation and only two days in jail. Along with their failure to properly convict the pair, The Police department overlooked Carter’s previous arrest record.
