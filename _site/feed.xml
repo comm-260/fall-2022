@@ -4,10 +4,10 @@
     <title>COMM-260 Quant Methods &amp; Data Viz (Fall 2020)</title>
     <description>Final projects from students in Quantitative Methods &amp; Data Visualization at American University Fall 2020.  
 </description>
-    <link>http://comm-260.github.io/fall-2020/fall-2020/</link>
-    <atom:link href="http://comm-260.github.io/fall-2020/fall-2020/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Dec 2020 16:00:48 -0500</pubDate>
-    <lastBuildDate>Sun, 13 Dec 2020 16:00:48 -0500</lastBuildDate>
+    <link>http://localhost:4000/fall-2020/</link>
+    <atom:link href="http://localhost:4000/fall-2020/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 13 Dec 2020 16:11:30 -0500</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2020 16:11:30 -0500</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -137,8 +137,8 @@
 
 </description>
         <pubDate>Sat, 12 Dec 2020 13:50:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/resaurant-inspections-yelp/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/resaurant-inspections-yelp/</guid>
+        <link>http://localhost:4000/fall-2020/resaurant-inspections-yelp/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/resaurant-inspections-yelp/</guid>
         
         
         <category>one</category>
@@ -181,8 +181,8 @@
 
 </description>
         <pubDate>Sat, 12 Dec 2020 13:50:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/metro-ridership-covid/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/metro-ridership-covid/</guid>
+        <link>http://localhost:4000/fall-2020/metro-ridership-covid/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/metro-ridership-covid/</guid>
         
         
         <category>one</category>
@@ -249,8 +249,8 @@
 &lt;p&gt;Nonetheless, it is evident that these trends have sustained and arguably, thrived, over the past two decades – sending us a clear message of not just who we are, but what we are becoming.&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Dec 2020 13:50:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/immigration/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/immigration/</guid>
+        <link>http://localhost:4000/fall-2020/immigration/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/immigration/</guid>
         
         
         <category>one</category>
@@ -293,8 +293,8 @@ The San Francisco Police Media Relations Unit had nothing to comment on the crim
 &lt;p&gt;An example of Boudins failure to solve crime in San Francisco is the case of Delvon Carter and Jared Wilson. According to the San Francisco Chronicle, in early 2020 Delvon Carter, 21, and Jared Wilson, 31, were arrested for multiple accounts of Auto burglary that spanned across the bay area. Additionally, Carter and Wilson had multiple accounts of stolen property from a total of 18 victims. Following the arrest Wilson was released on bail and Carter was offered probation and only two days in jail. Along with their failure to properly convict the pair, The Police department overlooked Carter’s previous arrest record.&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Dec 2020 13:49:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/san-francisco-crime/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/san-francisco-crime/</guid>
+        <link>http://localhost:4000/fall-2020/san-francisco-crime/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/san-francisco-crime/</guid>
         
         
         <category>one</category>
@@ -355,8 +355,8 @@ The San Francisco Police Media Relations Unit had nothing to comment on the crim
 
 </description>
         <pubDate>Sat, 12 Dec 2020 13:49:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/election-turnout/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/election-turnout/</guid>
+        <link>http://localhost:4000/fall-2020/election-turnout/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/election-turnout/</guid>
         
         
         <category>one</category>
@@ -439,8 +439,8 @@ Be careful what color you pick, too. Buying a black or gray bike might not be th
 
 </description>
         <pubDate>Sat, 12 Dec 2020 13:49:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/bicycle-theft-dc/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/bicycle-theft-dc/</guid>
+        <link>http://localhost:4000/fall-2020/bicycle-theft-dc/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/bicycle-theft-dc/</guid>
         
         
         <category>one</category>
@@ -547,8 +547,8 @@ Be careful what color you pick, too. Buying a black or gray bike might not be th
 
 </description>
         <pubDate>Sat, 12 Dec 2020 13:48:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/polls-and-covid/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/polls-and-covid/</guid>
+        <link>http://localhost:4000/fall-2020/polls-and-covid/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/polls-and-covid/</guid>
         
         
         <category>one</category>
@@ -653,8 +653,8 @@ The morale of staff was also a concern for DeBare.&lt;/p&gt;
 &lt;p&gt;“How can we really change things if people don’t know what’s going on,” said Thompson.&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Dec 2020 13:48:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/domestic-violence-dc/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/domestic-violence-dc/</guid>
+        <link>http://localhost:4000/fall-2020/domestic-violence-dc/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/domestic-violence-dc/</guid>
         
         
         <category>one</category>
@@ -742,8 +742,8 @@ The morale of staff was also a concern for DeBare.&lt;/p&gt;
 &lt;p&gt;“I think if you really want to end stigmas about it you have to let people know that although marijuana is a drug, all it is doing is activating something that is already existing in your body,” said Matos.&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Dec 2020 13:48:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/decriminalizie-marijuana/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/decriminalizie-marijuana/</guid>
+        <link>http://localhost:4000/fall-2020/decriminalizie-marijuana/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/decriminalizie-marijuana/</guid>
         
         
         <category>one</category>
@@ -843,8 +843,8 @@ The morale of staff was also a concern for DeBare.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 12 Dec 2020 13:47:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/student-debt/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/student-debt/</guid>
+        <link>http://localhost:4000/fall-2020/student-debt/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/student-debt/</guid>
         
         
         <category>one</category>

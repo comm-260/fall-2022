@@ -4,10 +4,10 @@
     <title>COMM-260 Quant Methods &amp; Data Viz (Fall 2020)</title>
     <description>Final projects from students in Quantitative Methods &amp; Data Visualization at American University Fall 2020.  
 </description>
-    <link>http://comm-260.github.io/fall-2020/fall-2020/</link>
-    <atom:link href="http://comm-260.github.io/fall-2020/fall-2020/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Dec 2020 15:30:08 -0500</pubDate>
-    <lastBuildDate>Sun, 13 Dec 2020 15:30:08 -0500</lastBuildDate>
+    <link>http://localhost:4000/fall-2020/</link>
+    <atom:link href="http://localhost:4000/fall-2020/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 13 Dec 2020 16:11:30 -0500</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2020 16:11:30 -0500</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -37,7 +37,7 @@
 
 &lt;p&gt;“Things have to be really bad for someone to notice and put that in a review–like cockroaches on the floor or pigeons in the restaurant,” She says. The latter Nobel experienced in Chinatown Restaurant during her experiment. She notes, “People don’t usually know what goes on in the kitchen.”&lt;/p&gt;
 
-&lt;p&gt;##The impact of Yelp ratings on restaurants&lt;/p&gt;
+&lt;h2 id=&quot;the-impact-of-yelp-ratings-on-restaurants&quot;&gt;The impact of Yelp ratings on restaurants&lt;/h2&gt;
 
 &lt;p&gt;Restaurant owners are well-aware of the distance between Yelp ratings and inspection scores.&lt;/p&gt;
 
@@ -57,7 +57,7 @@
 
 &lt;p&gt;“It’s really your word against the public,” Lyons says. “Someone who may not have even ever come to your restaurant but simply doesn’t like you for another reason can go online and make anything up and be published. And that hurts your business.”&lt;/p&gt;
 
-&lt;p&gt;##Preference-based reviews&lt;/p&gt;
+&lt;h2 id=&quot;preference-based-reviews&quot;&gt;Preference-based reviews&lt;/h2&gt;
 
 &lt;p&gt;On top of fraudulent and misplaced reviews, many Yelp reviews are preference-based. In Maricopa County, where around 24,000 businesses are listed on Yelp, the phrase “my preference” appears in 240 unique reviews, as does the phrase “for my taste.” Yelp only allows 240 results per keyword search, so the real figures are likely much higher.&lt;/p&gt;
 
@@ -67,7 +67,7 @@
 
 &lt;p&gt;Yelp Elite is a program in which, after posting a high number of reviews and regularly engaging with other users on Yelp, a Yelper earns a special profile tag that labels them as “Elite.” Elite members are invited to exclusive events hosted by Yelp. Through Yelp Elite, Yelpers are rewarded for writing reviews when they may not have otherwise.&lt;/p&gt;
 
-&lt;p&gt;##Yelp’s health scores&lt;/p&gt;
+&lt;h2 id=&quot;yelps-health-scores&quot;&gt;Yelp’s health scores&lt;/h2&gt;
 
 &lt;p&gt;Not long after Nobel’s article was published, Yelp started posting “health scores” on most restaurant pages, a practice that had previously only been instituted in a handful of cities. The health scores do not represent recent state or county grades, but rather an algorithmic average based on past scores and violations.&lt;/p&gt;
 
@@ -85,7 +85,7 @@
 
 &lt;p&gt;Lyons, Borden, and Nobel conclude that Yelp yields an unfair and unreliable power over businesses.&lt;/p&gt;
 
-&lt;p&gt;##The problem with inspection data&lt;/p&gt;
+&lt;h2 id=&quot;the-problem-with-inspection-data&quot;&gt;The problem with inspection data&lt;/h2&gt;
 
 &lt;p&gt;For consumers who care about restaurant sanitation, state and county records may be as unreliable as Yelp’s health scores.&lt;/p&gt;
 
@@ -125,7 +125,7 @@
 
 &lt;p&gt;“There’s an incentive for health inspectors and restaurateurs to have esoteric language that keeps consumers out of the loop,” Luther Lowe, Yelp’s vice president for public policy, &lt;a href=&quot;https://washingtoncitypaper.com/article/184847/do-yelps-health-scores-accurately-capture-the-cleanliness-of-dc-restaurants/&quot;&gt;told the Washington City Paper&lt;/a&gt;. “We’re trying to give them a seat at the table.”&lt;/p&gt;
 
-&lt;p&gt;##A world without Yelp&lt;/p&gt;
+&lt;p&gt;## A world without Yelp&lt;/p&gt;
 
 &lt;p&gt;In 2020, restaurateur Billy Godwin took over the Sunrise Cafe in Maricopa County after the original owners lost the business during the Covid-19 lockdown. Though the cafe has an added “New” in its name, the original Yelp page still exists, with corresponding contact information, hours of operation, and recent reviews.&lt;/p&gt;
 
@@ -137,8 +137,8 @@
 
 </description>
         <pubDate>Sat, 12 Dec 2020 13:50:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/resaurant-inspections-yelp/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/resaurant-inspections-yelp/</guid>
+        <link>http://localhost:4000/fall-2020/resaurant-inspections-yelp/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/resaurant-inspections-yelp/</guid>
         
         
         <category>one</category>
@@ -181,8 +181,8 @@
 
 </description>
         <pubDate>Sat, 12 Dec 2020 13:50:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/metro-ridership-covid/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/metro-ridership-covid/</guid>
+        <link>http://localhost:4000/fall-2020/metro-ridership-covid/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/metro-ridership-covid/</guid>
         
         
         <category>one</category>
@@ -249,8 +249,8 @@
 &lt;p&gt;Nonetheless, it is evident that these trends have sustained and arguably, thrived, over the past two decades – sending us a clear message of not just who we are, but what we are becoming.&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Dec 2020 13:50:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/immigration/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/immigration/</guid>
+        <link>http://localhost:4000/fall-2020/immigration/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/immigration/</guid>
         
         
         <category>one</category>
@@ -293,8 +293,8 @@ The San Francisco Police Media Relations Unit had nothing to comment on the crim
 &lt;p&gt;An example of Boudins failure to solve crime in San Francisco is the case of Delvon Carter and Jared Wilson. According to the San Francisco Chronicle, in early 2020 Delvon Carter, 21, and Jared Wilson, 31, were arrested for multiple accounts of Auto burglary that spanned across the bay area. Additionally, Carter and Wilson had multiple accounts of stolen property from a total of 18 victims. Following the arrest Wilson was released on bail and Carter was offered probation and only two days in jail. Along with their failure to properly convict the pair, The Police department overlooked Carter’s previous arrest record.&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Dec 2020 13:49:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/san-francisco-crime/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/san-francisco-crime/</guid>
+        <link>http://localhost:4000/fall-2020/san-francisco-crime/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/san-francisco-crime/</guid>
         
         
         <category>one</category>
@@ -355,8 +355,8 @@ The San Francisco Police Media Relations Unit had nothing to comment on the crim
 
 </description>
         <pubDate>Sat, 12 Dec 2020 13:49:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/election-turnout/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/election-turnout/</guid>
+        <link>http://localhost:4000/fall-2020/election-turnout/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/election-turnout/</guid>
         
         
         <category>one</category>
@@ -439,8 +439,8 @@ Be careful what color you pick, too. Buying a black or gray bike might not be th
 
 </description>
         <pubDate>Sat, 12 Dec 2020 13:49:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/bicycle-theft-dc/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/bicycle-theft-dc/</guid>
+        <link>http://localhost:4000/fall-2020/bicycle-theft-dc/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/bicycle-theft-dc/</guid>
         
         
         <category>one</category>
@@ -547,8 +547,8 @@ Be careful what color you pick, too. Buying a black or gray bike might not be th
 
 </description>
         <pubDate>Sat, 12 Dec 2020 13:48:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/polls-and-covid/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/polls-and-covid/</guid>
+        <link>http://localhost:4000/fall-2020/polls-and-covid/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/polls-and-covid/</guid>
         
         
         <category>one</category>
@@ -653,8 +653,8 @@ The morale of staff was also a concern for DeBare.&lt;/p&gt;
 &lt;p&gt;“How can we really change things if people don’t know what’s going on,” said Thompson.&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Dec 2020 13:48:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/domestic-violence-dc/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/domestic-violence-dc/</guid>
+        <link>http://localhost:4000/fall-2020/domestic-violence-dc/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/domestic-violence-dc/</guid>
         
         
         <category>one</category>
@@ -742,8 +742,8 @@ The morale of staff was also a concern for DeBare.&lt;/p&gt;
 &lt;p&gt;“I think if you really want to end stigmas about it you have to let people know that although marijuana is a drug, all it is doing is activating something that is already existing in your body,” said Matos.&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Dec 2020 13:48:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/decriminalizie-marijuana/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/decriminalizie-marijuana/</guid>
+        <link>http://localhost:4000/fall-2020/decriminalizie-marijuana/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/decriminalizie-marijuana/</guid>
         
         
         <category>one</category>
@@ -843,8 +843,8 @@ The morale of staff was also a concern for DeBare.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 12 Dec 2020 13:47:00 -0500</pubDate>
-        <link>http://comm-260.github.io/fall-2020/fall-2020/student-debt/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/fall-2020/fall-2020/student-debt/</guid>
+        <link>http://localhost:4000/fall-2020/student-debt/</link>
+        <guid isPermaLink="true">http://localhost:4000/fall-2020/student-debt/</guid>
         
         
         <category>one</category>
