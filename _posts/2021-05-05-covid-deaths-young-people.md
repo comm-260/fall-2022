@@ -10,7 +10,7 @@ categories: [one]
 
 The ongoing COVID-19 pandemic has affected more age groups more severely than others. To date there have been 557,486 deaths resulting from the coronavirus. [Data from the CDC](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm#ExcessDeaths) shows that the bulk of deaths were people over the age of 50. It is well established that COVID-19 has a greater effect on the elderly than it does on the young. However, this is not to say that younger people are immune from the virus and death. 2020 saw an 8.7% increase in deaths from 2019 in people under the age of 25. 2020 also saw a 3.5% rise in deaths of people under the age of 25 when compared to the yearly average between 2016-2019.
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/5916074"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/6061276"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 While the numbers for 2020 are not significantly greater than the numbers in any other year measured. 2020 unlike the other years shown has a significant public health event that drives its numbers up. COVID-19 has proven to not be overly deadly to this age demographic. Collectively in 2020 and 2021 there have been 8,485 COVID Deaths for people under the age of 25.
 
