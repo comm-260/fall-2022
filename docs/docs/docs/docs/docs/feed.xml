@@ -4,10 +4,10 @@
     <title>COMM-260 Quant Methods &amp; Data Viz (Spring 2021)</title>
     <description>Final projects from students in Quantitative Methods &amp; Data Visualization at American University Fall 2020.  
 </description>
-    <link>http://comm-260.github.io/spring-2021/spring-2021/</link>
-    <atom:link href="http://comm-260.github.io/spring-2021/spring-2021/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 May 2021 14:58:13 -0400</pubDate>
-    <lastBuildDate>Wed, 05 May 2021 14:58:13 -0400</lastBuildDate>
+    <link>http://localhost:4000/spring-2021/</link>
+    <atom:link href="http://localhost:4000/spring-2021/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 05 May 2021 14:57:17 -0400</pubDate>
+    <lastBuildDate>Wed, 05 May 2021 14:57:17 -0400</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -107,8 +107,8 @@
 &lt;p&gt;Above all, and integrated into every action we take concerning the physical and mental well-being of incarcerated people, we must demand a recognition of the humanity of incarcerated people and ensure we take the necessary steps to adapt our system so that we are better equipped to deal with the next public health threat.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 May 2021 14:50:00 -0400</pubDate>
-        <link>http://comm-260.github.io/spring-2021/spring-2021/incarcerated-covid-vaccinated/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/spring-2021/spring-2021/incarcerated-covid-vaccinated/</guid>
+        <link>http://localhost:4000/spring-2021/incarcerated-covid-vaccinated/</link>
+        <guid isPermaLink="true">http://localhost:4000/spring-2021/incarcerated-covid-vaccinated/</guid>
         
         
         <category>one</category>
@@ -226,8 +226,8 @@
 
 </description>
         <pubDate>Tue, 04 May 2021 14:50:00 -0400</pubDate>
-        <link>http://comm-260.github.io/spring-2021/spring-2021/evanston-reparations/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/spring-2021/spring-2021/evanston-reparations/</guid>
+        <link>http://localhost:4000/spring-2021/evanston-reparations/</link>
+        <guid isPermaLink="true">http://localhost:4000/spring-2021/evanston-reparations/</guid>
         
         
         <category>one</category>
@@ -308,8 +308,8 @@
 
 </description>
         <pubDate>Tue, 04 May 2021 14:50:00 -0400</pubDate>
-        <link>http://comm-260.github.io/spring-2021/spring-2021/covid-19-college-enrollment/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/spring-2021/spring-2021/covid-19-college-enrollment/</guid>
+        <link>http://localhost:4000/spring-2021/covid-19-college-enrollment/</link>
+        <guid isPermaLink="true">http://localhost:4000/spring-2021/covid-19-college-enrollment/</guid>
         
         
         <category>one</category>
@@ -360,8 +360,8 @@ Arielle Geismar is a youth gun violence activist whose work has intersected both
 &lt;p&gt;These correlations reveal a trend in the US between White, middle-class, males and these two events. While suicide and mass shootings themselves as acts are not directly correlated, they share statistical similarities in gender and race. The further finding of mass shootings being correlated to higher levels of wealth creates more questions than it answers. The rates of suicide being higher in lower class, rural areas make relative sense, what does not is the connection between relative prosperity and mass shootings. As our nation comes out of the Coronavirus pandemic, the re-opening of America has already come with an increase in gun violence and &lt;a href=&quot;https://www.washingtonpost.com/nation/2021/03/23/2020-shootings/&quot;&gt;mass-shootings&lt;/a&gt;. As it continues, additional measures will need to be put in place, not only to curve gun violence at large, a monumental task but also to address where and why they are happening. Mental health and other pre-determining factors are issues I have not even discussed in this piece, and most certainly should be addressed to reduce violent acts such as mass shootings and suicide. Still, curbing gun accessibility and increasing mental health services will not answer the question of why these high-profile shootings occur in middle-class America.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 May 2021 14:49:00 -0400</pubDate>
-        <link>http://comm-260.github.io/spring-2021/spring-2021/mass-shootings-suicides/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/spring-2021/spring-2021/mass-shootings-suicides/</guid>
+        <link>http://localhost:4000/spring-2021/mass-shootings-suicides/</link>
+        <guid isPermaLink="true">http://localhost:4000/spring-2021/mass-shootings-suicides/</guid>
         
         
         <category>one</category>
@@ -407,8 +407,8 @@ Arielle Geismar is a youth gun violence activist whose work has intersected both
 &lt;p&gt;To fully understand the ramifications of COVID-19, death reporting ought to be better categorized and defined. The lack of a consistent definition of what a COVID death is, no doubt has muddled the picture on where the uptick of death has come from. But it is clear where COVID goes death follows.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 May 2021 14:49:00 -0400</pubDate>
-        <link>http://comm-260.github.io/spring-2021/spring-2021/covid-deaths-young-people/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/spring-2021/spring-2021/covid-deaths-young-people/</guid>
+        <link>http://localhost:4000/spring-2021/covid-deaths-young-people/</link>
+        <guid isPermaLink="true">http://localhost:4000/spring-2021/covid-deaths-young-people/</guid>
         
         
         <category>one</category>
@@ -461,8 +461,8 @@ Lowest Salaries Total Earnings&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 04 May 2021 14:49:00 -0400</pubDate>
-        <link>http://comm-260.github.io/spring-2021/spring-2021/boston-schools/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/spring-2021/spring-2021/boston-schools/</guid>
+        <link>http://localhost:4000/spring-2021/boston-schools/</link>
+        <guid isPermaLink="true">http://localhost:4000/spring-2021/boston-schools/</guid>
         
         
         <category>one</category>
@@ -612,8 +612,8 @@ Lowest Salaries Total Earnings&lt;/p&gt;
 &lt;p&gt;“I think if you really want to end stigmas about it you have to let people know that although marijuana is a drug, all it is doing is activating something that is already existing in your body,” said Matos.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 May 2021 14:48:00 -0400</pubDate>
-        <link>http://comm-260.github.io/spring-2021/spring-2021/school-shootings-restrictive-gun-laws/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/spring-2021/spring-2021/school-shootings-restrictive-gun-laws/</guid>
+        <link>http://localhost:4000/spring-2021/school-shootings-restrictive-gun-laws/</link>
+        <guid isPermaLink="true">http://localhost:4000/spring-2021/school-shootings-restrictive-gun-laws/</guid>
         
         
         <category>one</category>
@@ -661,8 +661,8 @@ Lowest Salaries Total Earnings&lt;/p&gt;
 &lt;p&gt;Newell says that the root of homelessness can often be persistent; Vermonters raised in state-sponsored housing as children may struggle to find a livable wage as adults and find themselves in the same situation as before. In her opinion, generational problems require lasting, generational solutions, ones that go beyond the expenditure of state money on the right causes and focus on strong, mutually supportive communities. “Yeah, you can build all these affordable houses, but you need people in these positions to make sure that they’re continuing on,” she says. “It’s not like you can say, ‘We’ll put them in here, and then they’re good.’”&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 May 2021 14:48:00 -0400</pubDate>
-        <link>http://comm-260.github.io/spring-2021/spring-2021/homeless-vermont/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/spring-2021/spring-2021/homeless-vermont/</guid>
+        <link>http://localhost:4000/spring-2021/homeless-vermont/</link>
+        <guid isPermaLink="true">http://localhost:4000/spring-2021/homeless-vermont/</guid>
         
         
         <category>one</category>
@@ -709,8 +709,8 @@ Lowest Salaries Total Earnings&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 04 May 2021 14:48:00 -0400</pubDate>
-        <link>http://comm-260.github.io/spring-2021/spring-2021/dc-homeless/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/spring-2021/spring-2021/dc-homeless/</guid>
+        <link>http://localhost:4000/spring-2021/dc-homeless/</link>
+        <guid isPermaLink="true">http://localhost:4000/spring-2021/dc-homeless/</guid>
         
         
         <category>one</category>
@@ -766,8 +766,8 @@ Lowest Salaries Total Earnings&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 04 May 2021 14:47:00 -0400</pubDate>
-        <link>http://comm-260.github.io/spring-2021/spring-2021/ny-covid/</link>
-        <guid isPermaLink="true">http://comm-260.github.io/spring-2021/spring-2021/ny-covid/</guid>
+        <link>http://localhost:4000/spring-2021/ny-covid/</link>
+        <guid isPermaLink="true">http://localhost:4000/spring-2021/ny-covid/</guid>
         
         
         <category>one</category>
