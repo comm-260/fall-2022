@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COMM-260 Quant Methods &amp; Data Viz (Fall 2022)</title>
+    <description>Final projects from students in Quantitative Methods &amp; Data Visualization at American University Spring 2022.  
+</description>
+    <link>http://comm-260.github.io/fall-2022/fall-2022/</link>
+    <atom:link href="http://comm-260.github.io/fall-2022/fall-2022/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 17 Dec 2022 11:48:12 -0500</pubDate>
+    <lastBuildDate>Sat, 17 Dec 2022 11:48:12 -0500</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Increased Crime In New York City Is 'Nothing New'</title>
+        <description>&lt;p&gt;The city has gotten used to excessive danger. How the arrest rates of NYC suggest a continuation of increased crime.&lt;/p&gt;
+
+&lt;p&gt;Plaguing New York City, assault accounts for 16.5% of all arrest records across the five boroughs. However, when looking at the data, it’s not as simple as it seems. The Gotham City of the real world, crime in New York City is nothing new. We have all heard stories or experienced the horror stories of the different crimes that happen in the infamous NYC. In fact, the overall index crime in New York City has increased by 26% since August 2021.  With crime worsening, it is important to know what kinds of crimes are being committed more often. It’s very different if your neighborhood has an increase in tax fraud over an increase in murders.&lt;/p&gt;
+
+&lt;p&gt;Different neighborhoods within the boroughs have different common arrest types. While in all the boroughs assault has the highest arrest records, the next data point varies. Assault does account for 17% of all arrests, across 58 different categories. While 17% does not sound like a large percentage, when you look at how many categories of different arrest types there are, you will see why it is such a prevalent issue. The second-highest arrest types differ for a few boroughs. In Manhattan, petite larceny has the greatest amount of arrests. In The Bronx, felony assaults have the greatest, along with Brooklyn and Queens. In Staten Island, vehicles and traffic laws.&lt;/p&gt;
+
+&lt;iframe title=&quot;Most Common Arrest Type By Borough&quot; aria-label=&quot;Grouped Bars&quot; id=&quot;datawrapper-chart-FSFHq&quot; src=&quot;https://datawrapper.dwcdn.net/FSFHq/2/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;725&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;Moving down the list of arrest types, besides the top three, the boroughs differ quite a lot in the types of crime that are the most prevalent in their area.&lt;/p&gt;
+
+&lt;p&gt;The boroughs are all very different in population size. When looking at the number of arrest rates adjusted for population, one borough quickly rose above the rest. If you have lived in New York, you already know which borough that is.&lt;/p&gt;
+
+&lt;iframe title=&quot;Arrests Per Capita By Borough&quot; aria-label=&quot;Bar Chart&quot; id=&quot;datawrapper-chart-inhIA&quot; src=&quot;https://datawrapper.dwcdn.net/inhIA/2/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;69&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;The Bronx. The Bronx has the highest arrest rate per capita at 22.21 arrests per 1,000. The Bronx has earned itself quite the reputation for being the more dangerous of the boroughs, and one of the most dangerous spots in the state. In fact, the Bronx is home to numerous neighborhoods that hold some of the highest crime rates in NYC. When it comes to violent crime, the Bronx has almost twice the rates of those in Brooklyn and Manhattan. As for Staten Island and Queens? You are nearly three times more likely to experience violent crime in the Bronx than them.&lt;/p&gt;
+
+&lt;p&gt;You may wonder, what types of people are getting arrested the most often. The data for this is unsurprisingly the same across all the boroughs. 83% of all the perpetrators arrested this year were men. The age group with the most arrests is those aged 25-44, accounting for 39% of all arrests. Adjusting for the population in all the boroughs, 50% of all arrests are black people.&lt;/p&gt;
+&lt;iframe title=&quot;Arrests by Race Per Borough&quot; aria-label=&quot;Grouped Column Chart&quot; id=&quot;datawrapper-chart-oi9nw&quot; src=&quot;https://datawrapper.dwcdn.net/oi9nw/3/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;915&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;According to the NYPD Deputy Commissioner of Public Information, Julian Phillips, arrest profiles remain unchanged in the past few decades. “I’ve gone in-depth on our own data, and it has remained consistent. Men have almost always been arrested on a much higher percentage than women for a variety of different reasons. We have to deal with a lot of violent arrests, and more often than not it’s the men being violent. […] As for age, we have a lot of arrests that are over assaults, drugs, and fraud, so it’s not surprising that the highest percentage isn’t teenagers or the elderly,” said Phillips. These consistent profiles of perpetrators may give insight into what is most common, however it is important to stay vigilant and remember that anyone can commit a crime. There is no age group, sex, and race that has never committed a crime. Nevertheless, it is always good to see the data and decipher which have the highest arrest rates.&lt;/p&gt;
+
+&lt;p&gt;Expert criminologist Jeff Fagan has spent part of his career recognizing patterns in racial profiling and police. “Two case studies show surprising and troubling similarities in the racial disparities in the new policing in vastly different areas, including more frequent police contact and new forms of monetary punishment,” said Fagan. “Low-level “public order” crimes and misdemeanors are the starting point for legal proceedings that over time evolve into punishments leading to criminal records with lasting consequences.” These racial injustices are not new and continue to plague not only NYC, but in districts across the US.&lt;/p&gt;
+
+&lt;p&gt;The increase in crime in NYC has been visible to the public. Queens native, Hannah Goldberg, is a 44-year-old public worker who has seen the changing landscape of safety across the boroughs. “I can’t imagine being able to roam the streets freely as a kid as we did back then. I now carry multiple self-defense items and make sure people know where I am and when. I work in Manhattan now, and my commute has seen quite a few crimes over the years,” said Goldberg. Goldberg spoke of experiences she had on public transportation, as well as the avoidance of certain places. “My girlfriends and I would go to the Bronx in our 20s, because that’s where it was hip. We now avoid the area entirelyÉ too much crime on the news to bother going there,” she said. This experience is not uncommon, as talking to a few of her coworkers that had similar perspectives on which areas were safer than others. “I always warn my kids to stay away from certain areas,” said fellow employee David Peters. “They’re teenagers, so they like to explore. I always make sure to equip them with defensive tools, even if they think they don’t need them. I make them stay away from a majority of places. I find Brooklyn to be increasingly dangerous as well.”  Mr. Peters is correct here, as Brooklyn has the most arrest records this year.&lt;/p&gt;
+
+&lt;iframe title=&quot;Arrests To Date In 2022&quot; aria-label=&quot;Map&quot; id=&quot;datawrapper-chart-FKTHb&quot; src=&quot;https://datawrapper.dwcdn.net/FKTHb/2/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;727&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Part of this could be due to the average income. There are many large disparities between the boroughs and their average incomes. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;iframe title=&quot;Average Income By Household Estimate&quot; aria-label=&quot;Map&quot; id=&quot;datawrapper-chart-Tf2Zi&quot; src=&quot;https://datawrapper.dwcdn.net/Tf2Zi/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;751&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;Millionaires also play a role in arrest races per borough. The borough with the most millionaires, Manhattan has the most, with 13,818 millionaires. This actually accounts for 42% of the entire state’s millionaires. In total, 32,810 New York tax filers earn more than $1 million a year. Manhattan proves a stark difference from the rest of the boroughs. In the outer boroughs (Brooklyn, the Bronx, Staten Island, and Queens), less than 2% make at least $200,000 per year. It is normal for areas with lower average income to have higher arrest rates. The Bronx plays right into this, being the poorest borough while having the highest arrest rate. However, going back to Manhattan, Manhattan is considered the wealthiest borough and yet has the second highest arrest rate. Even adjusting for population numbers, the answer remains the same. Expert criminologist Jeff Fagan believes that it is because of the number of expensive people, stores, and places in Manhattan that make it such a special target of crime. “Manhattan is unlike the other boroughs when it comes to crime because of how wealthy it is. Everyone likes the allure of Manhattan, and it is where the rich of the rich come to play. The obscene amounts of wealth are why it’s so targeted,” said Fagan. This proves that no matter how wealthy your neighborhood is, everyone can possibly be the victim of a crime.&lt;/p&gt;
+
+&lt;p&gt;As crime continues to rise in NYC, all citizens must remain diligent in safety precautions. Last year, the NYPD reported a total of 102,741 major felonies. As this year’s data shows, it is only getting worse. In a press release done by the NYPD, they stated increases across the board. “Five of the seven major index-crime categories saw increases, driven by a 22.7% increase in burglary (1,409 v. 1,148), a 21.5% increase in grand larceny auto (1,215 v. 1,000), and a 21.3% increase in grand larceny (4,552 v. 3,753),” the press release said. Whether or not this trend will change in the future is yet to be determined as NYPD has not outlined any plans to attempt to lessen crime rates. While not stating a plan of action, officials remain optimistic about working for the people of New York. NYPD Commissioner Keechant L. Sewell said, “One crime victim is one victim too many, and the hardworking women and men of the NYPD are committed to ensuring that no oneÑin any New York City neighborhoodÑis harmed by violence or disorder.” Only time will be able to tell if Sewell makes changes to attempt to follow this statement. The people of New York deserve to feel safe in their own city and not have to worry about being victims of crimes on every corner.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://psc-cuny.org/where-millionaires-live-and-where-they-dont/&quot;&gt;Read: Where Millionaires Live and Where They Don’t&lt;/a&gt;  - Analysis based on 2008 income tax filings, which are the most recent returns made public by the NYS Department of Taxation and Finance.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 14 Dec 2022 13:00:00 -0500</pubDate>
+        <link>http://comm-260.github.io/fall-2022/fall-2022/nyc-crimes/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/fall-2022/fall-2022/nyc-crimes/</guid>
+        
+        
+        <category>one</category>
+        
+      </item>
+    
+      <item>
+        <title>California's wealth hides a housing crisis</title>
+        <description>&lt;p&gt;Eight years ago, Shelly Dillard moved into Continental Terrace Apartments in Sacramento after separating from his wife. Up until the management switch that raised his rent to $629, he paid $525 a month using his disability and retirement checks.&lt;/p&gt;
+
+&lt;p&gt;Now, rent costs take up about 60 percent of the money he receives from these two checks. Even so, management is proposing another rent increase.&lt;/p&gt;
+
+&lt;p&gt;“They’re trying to raise [my rent] to $1,350,” Dillard said. “I get a retirement check and a disability check. It don’t [sic] add up to no $1,350. They’re making it to where I can’t buy toiletries and stuff like that.”&lt;/p&gt;
+
+&lt;p&gt;As of &lt;a href=&quot;https://www.huduser.gov/portal/datasets/cp.html#2006-2019_data&quot;&gt;2019&lt;/a&gt; (the most recent data available), Black and Latino-headed houses are 69 and 32 percent, respectively, more likely to spend exorbitant amounts — over half their income — on housing costs than white households are.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed flourish-chart&quot; data-src=&quot;visualisation/12099370&quot;&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;This data comes from Comprehensive Housing Affordability Strategy (CHAS) and is found using a metric called housing cost burden, which is calculated by dividing housing costs by monthly income. According to Michael Tanner, a poverty researcher at the Cato Institute, these two factors work in tandem with one another to create California’s housing crisis, the worst in the nation.&lt;/p&gt;
+
+&lt;p&gt;“The two interact together,” Tanner said. “You have extremely high housing costs and have the fact that communities of color generally have lower incomes. So basically, you’ve got the worst of both worlds going on.”&lt;/p&gt;
+
+&lt;p&gt;When first looking at housing inequality, it is impossible to separate California’s history of racially-motivated housing policies from its present crisis, Sara Kimberlin, an affiliate at the Stanford Center on Poverty &amp;amp; Equality with a focus on housing, explains.&lt;/p&gt;
+
+&lt;p&gt;“Within housing policy, there is a history of specifically racist policies that have things like redlining, where households of color were explicitly blocked from entering into homeownership,” Kimberlin said. “That history leaves a strong impression on the patterns that we see now.”&lt;/p&gt;
+
+&lt;p&gt;As Tanner points out, these policies jump-started the issue of housing inequality but current zoning laws only exacerbate their effects.&lt;/p&gt;
+
+&lt;p&gt;“For a long time it was very difficult for African Americans and other people of color to buy housing and many areas were Black only, white only,” Tanner said. “So certainly white Californians have benefitted from past racial segregation and those policies are carried on to some degree by zoning. They’re not exclusively racial, but they still block minorities from moving into those communities.”&lt;/p&gt;
+
+&lt;p&gt;Historical redlining and current zoning practices hinder households of color from homeownership in desirable neighborhoods, leading to inequality on the housing side of housing cost burden. But as Tanner states, California has a level of poverty counter to its extreme wealth and this income disparity further worsens the housing crisis. In fact, California’s lowest income families earn &lt;a href=&quot;https://www.ppic.org/publication/income-inequality-in-california/#:~:text=Income%20inequality%20is%20a%20major%20concern%20in%20California.&amp;amp;text=Families%20at%20the%20top%20of,and%2010th%20percentiles%2C%20respectively&quot;&gt;11 times&lt;/a&gt; less than families at the top of the income ladder, according to the Public Policy Institute of California (PPIC).&lt;/p&gt;
+
+&lt;p&gt;“California of course is a state that has vast pockets of wealth, it is a state that has solid economic growth, and it is a state that has an extensive social safety net,” Tanner said. “It is also a state that has the highest poverty rate in the nation and the fourth highest rate of inequality of any state, so clearly there’s a problem.”&lt;/p&gt;
+
+&lt;p&gt;Linna Zhu, PhD, a Research Associate at the Urban Institute’s Housing Finance Policy Center, cites income inequality as the biggest cause of racial inequality in housing cost burden.&lt;/p&gt;
+
+&lt;p&gt;“Everyone experiences the same level of house price and rent depreciation rates,” Zhu said. “Then when we look at the impact of those depreciations, or increase in costs, the impact could be very different depending on the individual level of income, where there’s greater disparity.”&lt;/p&gt;
+
+&lt;p&gt;And these disparities are not small ones; according to data from the &lt;a href=&quot;https://data.census.gov/table?q=median+household+income&amp;amp;t=Hispanic+or+Latino&amp;amp;g=0400000US06&amp;amp;y=2021&amp;amp;tid=ACSST1Y2021.S1903&quot;&gt;American Community Survey&lt;/a&gt;, the median annual income for Black-headed households in 2021 was almost $59,000, 37 percent lower than for their white counterparts. For Latino households, income is a bit higher at $70,000 annually, although still 25 percent less than the white median.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/12099674&quot;&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;One of the biggest factors in racial income inequalities is disparity at the employment level. According to Kimberlin, people of color are disproportionately hired for lower-paying jobs, only furthering the wage gap between racial groups.&lt;/p&gt;
+
+&lt;p&gt;“Present day and historical patterns of implicit and explicit discrimination have pushed a lot of Black and Latino residents into jobs that pay lower wages and have less job security,” Kimberlin said. “This translates into income inequality, which translates into fewer homeownership opportunities.”&lt;/p&gt;
+
+&lt;p&gt;Dillard experienced this firsthand. After moving to Sacramento, his new union pushed him into pipe laying instead of plumbing — which he was trained for — which Dillard believes was due to his being Black.&lt;/p&gt;
+
+&lt;p&gt;“When I came to join this union, since my skin ain’t [sic] the right color, they kept sending me on jobs digging holes,” Dillard said. “I told them, that isn’t what I went to school for. I went to school to be a pipe fitter, they turned me into a plumber. When I was starting, a pipe fitter was making $40 an hour and a plumber was making $32 an hour.”&lt;/p&gt;
+
+&lt;p&gt;Furthermore, education helps raise students out of poverty and into high paying jobs. With people of color getting less access to higher education, these higher paying jobs are kept out of reach. PPIC research fellow Marisol Cuellar Mejia stresses the role of education in exacerbating racial income inequality lines.&lt;/p&gt;
+
+&lt;p&gt;“[Income inequality is] the consequence of education attainment,” Cuellar Mejia said. “We have a higher share of white houses where at least one of the heads have a Bachelor’s degree or higher than Latino and Hispanic households.”&lt;/p&gt;
+
+&lt;p&gt;Core issues of housing opportunity, income, employment and education inequality may have lit the fire for California’s housing crisis, but community pushback on affordable housing initiatives only fuels its flames. Not In My Back Yard (NIMBYism) is a concept where a community supports developmental decisions in theory until they are actually implemented within the community.&lt;/p&gt;
+
+&lt;p&gt;According to Cuellar Mejia, this movement makes it harder for local governments to increase the housing supply by striking down construction plans for affordable housing, particularly multi-family units.&lt;/p&gt;
+
+&lt;p&gt;“[NIMBYism] is a big part of the problem because it’s restricting supply and really our problems in terms of affordability and the housing crisis is from the lack of supply,” Cuellar Mejia said.&lt;/p&gt;
+
+&lt;p&gt;Discussions of NIMBYism conjures up images of the wealthy coastal elite cheersing their champagne glasses after successfully blocking access to affordable housing for families of color. However, as Tanner points out, those proclaiming NIMBYism are often just average people, unwilling to make changes in their community to mitigate the inequality.&lt;/p&gt;
+
+&lt;p&gt;“The people who are already at the top are going to object,” Tanner said. “And the stereotype is that it’s rich businessmen, but it’s not always rich businessmen. It’s powerful groups from union leaders to homeowners to businesses to legislators. It’s basically everyone who’s benefiting from the system today. Powerful people want to preserve the status quo, and it doesn’t break down that easily along liberal-conservative lines either.”&lt;/p&gt;
+
+&lt;p&gt;Before the pandemic, CHAS data showed that California’s housing discrepancies actually seemed to be improving. For every racial group, the percent of households with high housing cost burdens decreased between 2010 and 2019.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed flourish-chart&quot; data-src=&quot;visualisation/12099847&quot;&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;But, it appeared the development would be short lived. In March of 2020, only three months after the advancement was measured, California was overtaken by COVID-19, leading to mass layoffs, economic lags, unprecedented medical bills and diluted online education.&lt;/p&gt;
+
+&lt;p&gt;One thing that remained constant? Rent prices.&lt;/p&gt;
+
+&lt;p&gt;The pandemic hit households of color especially hard, stalling any progress California had made in mitigating housing inequality, according to Kimberlin.&lt;/p&gt;
+
+&lt;p&gt;“Job losses during the pandemic were particularly concentrated in occupations and industries that tended to pay lower wages,” Kimberlin said. “Californians of color are more likely to be in these lower-wage jobs so then they’re being hit multiple times. At the same time, the economy was slowing down, but rents didn’t drop in a lot of places so the ongoing challenge of housing affordability hasn’t gone away.”&lt;/p&gt;
+
+&lt;p&gt;California’s housing crisis is not a victimless issue. As owning a house is one of the basic ways to pass down wealth, disproportionately high housing cost burdens push families of color out of homeownership and generational wealth accumulation. Spending over half of one’s monthly income on housing forces households of color to prioritize housing while other equally important costs have to be ignored, as Kimberlin describes.&lt;/p&gt;
+
+&lt;p&gt;“If you have unaffordable housing costs, you are usually forced to compromise on other important needs that your family or you as an individual need to address,” Kimberlin said. “You have to pay your rent, but that may mean that you don’t have money to pay for high quality childcare for your children or food at the end of the month. You don’t have enough money to invest in your education or to set aside money for retirement. Failing to meet those other basic needs, there are cascading consequences to that.”&lt;/p&gt;
+
+&lt;p&gt;California’s housing crisis is a deeply ingrained, institutionalized issue, requiring both short-term and long-term solutions to overcome. Short term, as Zhu recommends, California needs to invest in construction projects to increase housing supply while putting measures in place to make this housing more affordable to families of color.&lt;/p&gt;
+
+&lt;p&gt;“The first step is to build more properties, build more houses both for homeowners and renters,” Zhu said. “When you increase the supply, that will mitigate the price pressure. Once you have more properties, expanding credit acts especially to households of color so that more of them can afford the new properties on the market.”&lt;/p&gt;
+
+&lt;p&gt;Once the initial housing shortage is mitigated, Kimberlin advocates for systemic changes in education, childcare, social security and employment to make these institutions more equitable.&lt;/p&gt;
+
+&lt;p&gt;“It’s one of those things where there is no silver bullet answer to how to address it,” Kimberlin said. “What needs to happen is just action across a lot of different areas: addressing jobs, safety nets, housing supply, childcare supply. Progress across a lot of different domains is important to make sure that we can be moving in the right direction.”&lt;/p&gt;
+
+&lt;p&gt;Until those measures are put in place, Tanner believes the average California citizen can vote or put pressure on their local governments to enact change. After all, some renters already are — Dillard being one of them.&lt;/p&gt;
+
+&lt;p&gt;“Some old people will give up the money so they don’t have a problem,” Dillard said. “They’re scared they’re gonna get kicked out. But if they kick me out, it’s gonna be all over the news. I’ll be ready to burn this fucker down.”&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Dec 2022 11:39:00 -0500</pubDate>
+        <link>http://comm-260.github.io/fall-2022/fall-2022/california-wealth/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/fall-2022/fall-2022/california-wealth/</guid>
+        
+        
+        <category>one</category>
+        
+      </item>
+    
+      <item>
+        <title>Wage Gap Runs Rampant in the Garden State</title>
+        <description>&lt;p&gt;It has been observed that men and women earn significantly different wages, even within similar industries and positions. New Jersey is no exception to this norm, as women on average earn only up to about 80% of what men earn across every county, if that. Industries that are female-dominated are most likely to pay lower wages overall than male-dominated ones. Additionally, female-dominated jobs also are less likely to include benefits like employer-provided health insurance and retirement plans compared to male-dominated occupations. Interestingly enough, even within female-dominated industries, women are paid less on average than men with the same job position. When comparing over 300 different occupations, there are zero where women have an earnings advantage over men, but many where men have significantly higher earnings than women.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-wage-gap-throughout-new-jersey&quot;&gt;The Wage Gap Throughout New Jersey&lt;/h2&gt;
+&lt;iframe title=&quot;Women's Earnings as a Percentage of Men's by County&quot; aria-label=&quot;Map&quot; id=&quot;datawrapper-chart-AJyj3&quot; src=&quot;https://datawrapper.dwcdn.net/AJyj3/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;border: none;&quot; width=&quot;550&quot; height=&quot;1156&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;It’s clear that the highest average amount a woman will make compared to a man’s dollar is still only 79 cents. The lowest average amount is women making 60 cents of a man’s dollar, which highlights a significant inequality in wages across the state. Within the state, there are no clear patterns of patches with more or less wage equality. Atlantic County has the least wage discrepancy, followed by Hudson and Union Counties which are tied for second and third place. Interestingly, the latter counties are located on the far northeast end of the state in contrast with Atlantic County.&lt;/p&gt;
+
+&lt;h2 id=&quot;news-jerseys-most-inequitable-county&quot;&gt;New’s Jersey’s Most Inequitable County&lt;/h2&gt;
+
+&lt;p&gt;In Salem County, New Jersey, women earn only 60% of what men earn, totaling a $21,000 difference every year. Salem County is New Jersey’s most rural county, known for its fine wildlife and open space, making it attractive to the agricultural industry and business developers. Currently, builders are working to cultivate the terrain for new businesses and industries to establish themselves. It’s reasonable to conclude that the agriculture, forestry, fishing and hunting, and mining industries are especially prevalent in Salem. These industries are also few of the many that see incredible wage discrepancies in the area; women only making 57% of what men earn.&lt;/p&gt;
+
+&lt;p&gt;To understand why the wage gap hits Salem County so hard, I speak with Juni Reagan, a New Jersey agricultural worker from Middlesex County. “While the agricultural industry shows a large disparity, especially in Middlesex county where I’m from, it’s most often because women tend to hold lower positions within companies, whereas men dominate the management positions. That’s not to say that there still isn’t inequity present, as it’s quite possible there are gendered differences even at the management level.”&lt;/p&gt;
+
+&lt;p&gt;It’s also important to consider what local politicians are doing to combat the wage gap, if anything. Congressman Jefferson Van Drew is a Republican who has represented NJ’s 2nd district for the past three years. The only gender-related legislation Van Drew has drafted is the “My Child, My Choice” Act. He said it would require parents to be “informed of any classroom discussion relating to gender identity and sexual orientation” and in reponse to the “radical” policies discussing gender education in schools.&lt;/p&gt;
+
+&lt;iframe title=&quot;Percentage of NJ Residents who Supported Gov. Murphy in 2017&quot; aria-label=&quot;Map&quot; id=&quot;datawrapper-chart-0yzm8&quot; src=&quot;https://datawrapper.dwcdn.net/0yzm8/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;border: none;&quot; width=&quot;600&quot; height=&quot;780&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;new-jerseys-attempt-to-level-the-playing-field&quot;&gt;New Jersey’s Attempt to Level the Playing Field&lt;/h2&gt;
+
+&lt;p&gt;What has the state done to combat the wage gap? Much of the state’s significant progress has been initiated by Gov. Phil Murphy, who has served as New Jersey’s governor since January 2018. In April 2018, Murphy signed into law The Equal Pay Act, which strengthens protections against employment discrimination by promoting equal pay for all groups protected by the Law Against Discrimination (LAD). Murphy said, “We are sending a beacon far and wide to women across the Garden State and in America – the only factors to determine a worker’s wages should be intelligence, experience and capacity to do the job.  Pay equity will help us in building a stronger, fairer New Jersey.”&lt;/p&gt;
+
+&lt;p&gt;In his 2017 gubernatorial campaign, Murphy won against Republican candidate Kim Guadagno by significant margins, earning 56% of the vote, opposed to Guadagno’s 42%. There is a moderate correlation between counties with lower wage gaps and districts that predominantly voted for Murphy. Passaic, Union, Essex, and Hudson counties all have lower wage gaps compared to the rest of the state and those corresponding districts have the highest percentage of Murphy voters. Camden and Mercer county also had a majority of Murphy voters in 2017, and have lower wage gaps than most counties with a Guadagno majority. The outliers of this correlation are a few South Jersey counties, namely Cumberland, Cape May, and especially Atlantic County.&lt;/p&gt;
+
+&lt;p&gt;Katelyn Kazantsis, a female desk receptionist in Atlantic County said, “I wasn’t old enough to vote in the 2017 election, but I know most of my friends and family voted for Guadagno. They believed her policies like fixing pension and health benefits were more relevant than equal pay legislation. I somewhat agree, it’s more of the government’s job to prevent massive tax hikes which also affects our disposable income.”&lt;/p&gt;
+
+&lt;iframe title=&quot;What Percentage of a Man's Earnings Does a Woman Earn in NJ?&quot; aria-label=&quot;Range Plot&quot; id=&quot;datawrapper-chart-zlvC5&quot; src=&quot;https://datawrapper.dwcdn.net/zlvC5/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;border: none;&quot; width=&quot;600&quot; height=&quot;623&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Most industries have wide ranges between their counties with the highest and lowest percentage of women’s earnings compared to men’s. Management has noticeably the widest range, in which women from some counties earn only 21 cents of a man’s dollar, and in others they are earning almost four times as much. Atlantic County is the county with the 375% and its northern neighbor Ocean County is the 21%. But what could be the reason for two neighboring counties with immensely different wage gaps for the same industry? Padma Rao is a human resources manager for Mercedes Benz who frequently works in salary negotiations and posing job offers to potential employees. She says that the tourism industry is very prevalent in Atlantic County, as it includes Atlantic City, which is a hotspot destination for nightlife, casinos, and luxury shopping. Rao said she used to work for the Borgata in Atlantic City ten years ago, and worked on an entirely female-run team. “We were all making good money”, she says. “It was the highest I’ve ever made thus far in my career. While it was a good opportunity, the location and industry wasn’t my long-term plan.”&lt;/p&gt;
+
+&lt;p&gt;Rao, with her experience as an earner and determinant of people’s earnings, has comprehensive insight on the cause and effect of the wage gap. She says, “The differences in wages by gender are complicated to explain in just a few words. It’s a result of systemic differences in opportunities offered to each gender, which then impacts the type of positions women are motivated to seek out. There is sexism undeniably present in many industries, and while many companies are working to change that, it is still a work in progress.” 
+Systemic issues aside, the question arises as to why companies are consciously paying higher wages to men for the same jobs. Rao accounts this to specific employer practices, which include using prior salary history to set current pay and prohibiting employees from discussing their wages. “It is always a good decision to discuss with your female and male employees alike what your wages are. While it may seem like an awkward discussion, it’s necessary. If it seems unfair after inquiring with your colleagues, the next step is to have a cordial discussion with your employer to rectify the situation.” While the wage gap is still a prevalent issue in the present, progress is being made in both the private and public sector. However, the group that is getting the short end of the stick, it may not be enough to wait for progress from outside entities. On an individual level, some level of initiative with salary negotiation could go a long way to combat gender inequality in wages.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Dec 2022 10:23:00 -0500</pubDate>
+        <link>http://comm-260.github.io/fall-2022/fall-2022/wage-gap/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/fall-2022/fall-2022/wage-gap/</guid>
+        
+        
+        <category>one</category>
+        
+      </item>
+    
+      <item>
+        <title>Gen-Z and the Midterms</title>
+        <description>&lt;p&gt;Trends in elections have been consistent throughout the past century, the midterms see less turnout than presidential elections and young voters have had the lowest turnout. In an increasingly polarized environment, however, youths have stepped up to the plate to encourage voting among their peers.&lt;/p&gt;
+
+&lt;iframe title=&quot;Midterm Voting by Age&quot; aria-label=&quot;Interactive line chart&quot; id=&quot;datawrapper-chart-otT1q&quot; src=&quot;https://datawrapper.dwcdn.net/otT1q/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;400&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;Young, educated voters have been a consistent demographic for Liberal politicians. Democratic candidates have begun placing more emphasis on their turnout. One such campaign was the 2020 “Settle for Biden” campaign. On the media team was American University Sophomore Finn O’Donnell.&lt;br /&gt;
+In a year where social media was flooded with election related content, much of his work was posting on platforms such as Instagram and Twitter with news and information regarding voting and issues. 
+“A good amount of the popularity of infographics, was that we found a way we can communicate effectively,” O’Donnell said. “And we can get engagement and shares”&lt;br /&gt;
+An essential part of the information given out was the reach and legibility it had. In this “era of infographics,” as O’Donnell put it, the number of shares and likes a post got was the marker of how successful they were.&lt;br /&gt;
+In his college experience, O’Donnell notes how voter turnout varies from other less politically oriented universities. 
+“At American University, most people are upper middle class, and a lot of people have some form of marginalized identity or identify that way. I think those two things create a higher propensity to vote,” O’Donnell said. 
+The message the “Settle for Biden” campaign carried was one that can be disheartening to young voters: to vote for the lesser of two evils. It was, however, more focused and encouraging than those of the 2016 presidential election.&lt;br /&gt;
+Then Democratic candidate, Hillary Clinton, is well known for her folksy remarks like “PokŽmon Go to the Polls.” In contrast, the “Settle for Biden” campaign’s push helped provide young voters with information on how to vote and links to sources to help them. 
+Where previous campaigns had fewer effective appeals to younger voters, the common sense and access to resources proved valuable in getting out the vote in the 2020 election where a record 48% of voters aged 18 to 24 turned out to vote.&lt;br /&gt;
+A similar approach to getting first-time voters to get to the polls was facilitated by American University Freshman Sophia Cummings. In high school, Cummings was part of two clubs that combined to help promote pre-registration, Vote-16 and the League of Women Voters.&lt;br /&gt;
+“I was just curious; I didn’t know that much about voting and there were local elections that were happening that I could contribute to,” Cummings said. “It was frustrating to watch it happen to be powerless.” 
+Part of her job in these clubs was to organize assemblies to educate the student body on how to pre-register and research candidates in the election.&lt;br /&gt;
+“In high school, if it wasn’t for the presentations we gave, nobody would know what they were doing,” she said. 
+Through their media prevalence, one of Cumming’s clubs, Vote-16, got the local City Council members to have a real conversation with them. They were making a change through their relentless push to be heard.
+There is an issue, however, with getting young people who have registered to vote to turn out in the elections. The combination of these two strides, registration and voter turnout, are essential to getting first-time voters to the polls.&lt;/p&gt;
+
+&lt;iframe title=&quot;Registration and Voting in Ages 18 to 24&quot; aria-label=&quot;Interactive line chart&quot; id=&quot;datawrapper-chart-GCuat&quot; src=&quot;https://datawrapper.dwcdn.net/GCuat/2/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;400&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}(); 
+&lt;/script&gt;
+
+&lt;p&gt;For both Cummings and O’Donnell this was the first election they could vote in. And both come from states with an established system of mail in voting.&lt;br /&gt;
+O’Donnell, who’s from Washington, voted with ease from DC.&lt;br /&gt;
+“Washington has pure play mail in voting. Everybody votes by mail,” O’Donnell said.&lt;br /&gt;
+However, Cummings, who’s from California, failed to submit an absentee ballot. 
+“It’s very interesting being from California because we joke about how our votes don’t really matter,” she said. “I think growing up and hearing that all the time made me have less priority in making sure I voted.” 
+Even those who helped others learn to vote lacked the information to submit an absentee ballot. Though the political messaging in the state was a factor. 
+Behind the scenes, the process of registration and voting stretches weeks after the official election day. In the Arlington County election office, Chairman of the Electoral Board Kimberly Phillip gave insight to the most recent election. 
+“Arlington is not thought of as a university town, but we have a number of universities here and universities that have dorms here,” Phillip said.&lt;br /&gt;
+Voting by mail has been an option for Virginia voters for years, though ballot drop boxes were introduced to help with the overflow of mail-in ballots in 2020. In Arlington, it is primarily older voters that are voting by mail and young voters who vote day of the election.&lt;br /&gt;
+“Typically, we don’t see a huge percentage of young voters, like university students, who are voting absentee by mail,” Phillip said. 
+This was the first year the county had done same day voter registration, those who had missed the registration deadline could go in-person to the polling stations and register on the day of the election. Over 2,000 people did same day registration, with young voters making up the largest portion.&lt;br /&gt;
+“They [young voters] knew that they were not registered to vote in Virginia, but they knew that they had an opportunity to register and to be able to vote the same day,” Phillip said.&lt;br /&gt;
+Phillip noted how the election process is constantly changing. In 2020 it was the addition of drop boxes, in 2022 it was same day voter registration.&lt;br /&gt;
+“Every year when something new comes down from the General Assembly, it changes our data,” she said. “And I don’t think that we’re expecting to see it down to a downtick in same day registrations in the 18-to-24-year old’s anytime soon.” 
+In this landscape, it is important to keep people informed of all the ways they can vote. Arlington County provides voter information on their website and Twitter page. Even at this level of government that is focused solely on voting, social media is becoming influential in their operation.&lt;br /&gt;
+“We’re not entirely sure how effective our reach is, with our own social media account, it’s the account that people go tend to go to when there’s a problem at a voting precinct,” Phillip said. “I know, that’s something that we’re going to be visiting this coming year.” 
+The education of voters remains crucial as even in the next election changes are going to be made to the voting process. Recently, the county board has approved ranked choice voting for local elections.&lt;br /&gt;
+“We’ll be depending a lot on Twitter, on our website, and on going out and talking to people and organizations about how [ranked choice voting] works,” Phillip said. 
+Political parties are constantly working to further their voter base. Marketing their platform to people from all backgrounds. All that effort is for nothing if they can’t get people out to vote.&lt;/p&gt;
+
+&lt;iframe title=&quot;Change in Voting in Midterm Elections&quot; aria-label=&quot;Interactive line chart&quot; id=&quot;datawrapper-chart-5twat&quot; src=&quot;https://datawrapper.dwcdn.net/5twat/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;400&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;Young voters have the lowest turnout of any age group, but recently have shown the most growth with an almost 90% increase in voter turnout in the 2018 midterm elections from the previous midterm. 
+They are an essential and growing target demographic for the political landscape.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 14 Dec 2022 07:00:00 -0500</pubDate>
+        <link>http://comm-260.github.io/fall-2022/fall-2022/young-voters/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/fall-2022/fall-2022/young-voters/</guid>
+        
+        
+        <category>one</category>
+        
+      </item>
+    
+      <item>
+        <title>U.S. lagging behind other developed countries</title>
+        <description>&lt;p&gt;Healthcare spending in the United States has always been among the most important political issues the country has faced over the past century. Despite spending the most per capita on healthcare in the developed world, the United States has the lowest life expectancy and highest infant mortality rates out of any country. The US spends more than $12,000 per person per capita on healthcare but people in the U.S. can expect to live three to four years less than others in countries like Canada, the United Kingdom, France, and Germany.&lt;/p&gt;
+
+&lt;p&gt;https://www.datawrapper.de/_/NYOYL/&lt;/p&gt;
+&lt;iframe title=&quot;Life Expectancy By Year, DE, US, UK, CAN, FR, CHN, DEN&quot; aria-label=&quot;Interactive line chart&quot; id=&quot;datawrapper-chart-NYOYL&quot; src=&quot;https://datawrapper.dwcdn.net/NYOYL/3/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;3784&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;According to data from the World Health Organization, the average life expectancy in the United States in 2019 was 77.3, a 5% decrease from the peak of 78.7 in 2018, likely because of the COVID-19 pandemic. This statistic shows a steady decrease in the well-being and health of Americans as the GDP of the country continues to increase. In comparison, other countries like the United Kingdom, France, Germany, and Canada with universal health care systems have a higher average life expectancy when compared with the US, and spend less per capita than the U.S. While the U.S. government spends around $10,945, on average for each citizen’s healthcare, countries like the United Kingdom and Canada only spend $4,500 and $5,730 on healthcare. The U.S. spends almost 2x more than other Anglosphere countries with poorer health outcomes such as a lower life expectancy rate and a higher infant mortality rate of 5.4 per 1000 births. 
+According to Morgane Brun who works for the Royal Pharmaceutical Society, “The United Kingdom’s focus on lowering drug costs and maintaining the National Healthcare System has led to higher public healthcare outcomes while also boosting confidence from patients who receive better health outcomes.” She continued, “As someone who is half-American, I know that we would benefit from focusing more on the quality of care rather than the cost of everything.
+Infant mortality rates have increasingly gone down globally since the advent of new technologies that could help alleviate more deaths. However, the United States still has the highest infant mortality rate of developed countries with a rate of 5.4, compared to 3.1 in Germany and Denmark and a rate of 4.4 in Canada. Although the United States infant mortality rate itself has dropped 73.7% from 20.6 to 5.4, it’s still a worrying number that has caused many to worry about the potential state of the economy.&lt;/p&gt;
+
+&lt;p&gt;https://www.datawrapper.de/_/cWppH/&lt;/p&gt;
+&lt;iframe title=&quot;United States Infant Mortality Rate - 1968-2019&quot; aria-label=&quot;Bar Chart&quot; id=&quot;datawrapper-chart-cWppH&quot; src=&quot;https://datawrapper.dwcdn.net/cWppH/3/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;1365&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;Why is the U.S. Spending More and Getting Less?
+The United States has the highest GDP on earth with a total amount of $19 trillion. It is the richest nation in human history and has one of the strongest militaries and the highest population totals on Earth with 324 million people. I want to provide readers with a graphic look at the current situation of healthcare on the ground in the United States and figure out why we are spending more on healthcare and getting less favorable outcomes.&lt;br /&gt;
+According to Johan Mathisen who works at the World Bank, “In looking at the US versus the European countries, for example, you may want to look at prescription drug costs across the same group of countries, which could help explain some of the differences in cost spending per capita that you are seeing. To put it another way, differences in healthcare spending per capita (without the corresponding variation in health outcomes), seem associated with macro factors such as income inequality, levels of corruption, age, or density of its population, or with market structure characteristics such as government intervention and pricing.”
+Differences in Pharmaceutical Costs
+In 2021, the United States had the highest pharmaceutical spending in the world with an average of $1,310 dollars spent per capita. In comparison, the next highest spender per capita on pharmaceutical spending, Germany, spends $910 dollars per capita. While other countries compete with the U.S. in spending, drug prices in the United States are much higher than in other countries. For example, according to the RAND Corporation, the average price of insulin in the United States in 2018 was $98.70 with insulin in Canada, France, and Germany averaging a price of only $10.69. These health discrepancies have affected Americans’ ability to access life-saving medications like insulin and other antibiotics that could help treat viral diseases and health problems.&lt;/p&gt;
+
+&lt;p&gt;https://www.datawrapper.de/_/dQZBS/&lt;/p&gt;
+
+&lt;iframe title=&quot;Total Health Expenditure by Year - % of GDP&quot; aria-label=&quot;Interactive line chart&quot; id=&quot;datawrapper-chart-dQZBS&quot; src=&quot;https://datawrapper.dwcdn.net/dQZBS/2/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;400&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;Lack of Efficiency 
+Countries with universal healthcare have lower administrative costs because things are managed centrally. In contrast, the United States has a private insurance-based system that favours healthcare executives over consumers. According to data from MoneyGeek, Americans pay an average of around $456 per month on health insurance, amounting to nearly $6,000 dollars a year. Along with the cost of healthcare, many people must pay deductibles which increase their prices even more. As a result, people struggle to get the care they need at a fast and efficient pace, creating longer waiting times and causing more people to avoid seeking medical attention for their injuries, sicknesses, or health problems. Other people unnecessarily use hospital emergency rooms to get care faster. This gap in receiving health care and high costs overwhelms people working in the healthcare sector, especially those working as doctors, nurses, EMTs, and general hospital staff. 
+Americans live in a country where their health is on a slow downturn due to high healthcare costs, unsustainable private healthcare systems, and increased spending that doesn’t address key issues such as higher child mortality rates and a dwindling life expectancy in the aftermath of the COVID-19 pandemic. 
+Jocelyn Willis works as a regional sales manager at Fresenius Medical Care North America, a company that specializes in medicine, medical care, and improving people’s lives through medicine. When asked about the impact of the rising cost of drugs in the U.S., Ms Willis said, “The reason that drug prices are rising in the US is because of a lack of government subsidization and private companies hiking prices due to a lack of regulation. Although other countries have subsidization for medicine, the United States has a system built to allow private companies to distribute medicine, making it harder for consumers.” As the price of crucial drugs continue to increase, politicians and government officials struggle to find a way to negotiate fair deals for American citizens.&lt;/p&gt;
+
+&lt;p&gt;Experts seeing the data present might consider quite a few options to alleviate these problems, with national health care bills and support for universal health care at an all-time high in the United States. However, the continuing trends look bleak for the U.S. as the country continues to feel the inequities caused by a lack of sustainable healthcare.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 14 Dec 2022 07:00:00 -0500</pubDate>
+        <link>http://comm-260.github.io/fall-2022/fall-2022/us-health-behind/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/fall-2022/fall-2022/us-health-behind/</guid>
+        
+        
+        <category>one</category>
+        
+      </item>
+    
+      <item>
+        <title>Safe Haven laws: their history of effectiveness and their future in a post-Roe America</title>
+        <description>&lt;p&gt;Thirteen years ago, Heather Burner was working a nursing shift at a busy hospital in Phoenix, Arizona. A fifteen year old girl with abdominal pain came in and was placed in a waiting room until a doctor could see her. She went into a bathroom and then left the hospital before being assessed.&lt;/p&gt;
+
+&lt;p&gt;A housekeeper entered the bathroom ten minutes later and found a newborn boy in the trash can. The girl, who turned out to be pregnant, had delivered her baby in secret, placed him in the trash can, and fled.&lt;/p&gt;
+
+&lt;p&gt;Burner’s team was unsuccessful in saving the child’s life.&lt;/p&gt;
+
+&lt;p&gt;This experience motivated Burner to start spreading awareness about Safe Haven laws, which allow parents to voluntarily, anonymously, and safely relinquish their children to authorities as an alternative to abandonment. The laws differ from state to state in regards to how old the infant can be and where they can be relinquished, but all fifty states and the District of Columbia now have Safe Haven laws.&lt;/p&gt;
+
+&lt;p&gt;Burner is now the Executive Director of the &lt;a href=&quot;https://www.nationalsafehavenalliance.org/&quot;&gt;National Safe Haven Alliance&lt;/a&gt;, an organization that aims to decrease infant abandonment rates in the U.S. and internationally. One of NSHA’s initiatives is state-by-state data collection and organization of infant relinquishments and abandonments. This work was started by NSHA board member Dawn Geras in the early 2000s.&lt;/p&gt;
+
+&lt;p&gt;“When I came on in 2017, working with Dawn, we actually tried to help her by contacting all the state Departments of Child and Family Services, and the Department of Health so we could assist her with those numbers,” Burner said.&lt;/p&gt;
+
+&lt;iframe title=&quot;Average change in annual infant abandonment rates since the passing of Safe Haven Laws&quot; aria-label=&quot;Map&quot; id=&quot;datawrapper-chart-VOyHY&quot; src=&quot;https://datawrapper.dwcdn.net/VOyHY/6/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;506&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;The map above shows the average change in infant abandonment rates in each state since a state law has been passed. The more pink the state, the more effective its Safe Haven laws have been in decreasing infant abandonment. Green signifies a state where Safe Haven laws have been less effective.&lt;/p&gt;
+
+&lt;p&gt;Nationally speaking, more than four fewer babies a year have been abandoned since the majority of states have instituted their Safe Haven laws, even with an additional 50 million American babies being born since then. Also, 4,688 legal relinquishments have happened since the first Safe Haven law was passed in Texas in 1999.&lt;/p&gt;
+
+&lt;h2 id=&quot;california-and-illinois-safe-haven-triumphs&quot;&gt;California and Illinois: Safe Haven triumphs&lt;/h2&gt;
+&lt;p&gt;Looking at specific states where abandonment has decreased helps to see patterns of why those state’s laws are more effective. One such state is California.&lt;/p&gt;
+
+&lt;iframe title=&quot;Infant abandonment in California since Safe Haven legislation was passed&quot; aria-label=&quot;Interactive line chart&quot; id=&quot;datawrapper-chart-Rw8tZ&quot; src=&quot;https://datawrapper.dwcdn.net/Rw8tZ/3/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;400&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;This graph shows yearly abandonment rates in California since their Safe Haven law was implemented in 2001. California has the largest decline in infant abandonment rates nationwide. Nearly one fewer baby has been abandoned every year, and over eleven-hundred infants have been relinquished since then.&lt;/p&gt;
+
+&lt;p&gt;California also has the lowest infant death rate at just under four deaths per 100,000 births, says the CDC’s 2022 National Vital Statistics Report on infant mortality in the United States.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.chla.org/profile/micah-orliss-phd&quot;&gt;Dr. Micah Orliss&lt;/a&gt; is a psychologist at Children’s Hospital Los Angeles and a clinical assistant professor of pediatrics at University of Southern California. Several of his patients have been relinquished under California’s Safe Haven law. He’s also done Safe Haven research in Los Angeles County.&lt;/p&gt;
+
+&lt;p&gt;Through his experience, Orliss has gathered insight on why California’s law works so well. He discussed the state’s awareness campaigns for Safe Haven laws, including bumper stickers on police cars, radio announcements, and news releases.&lt;/p&gt;
+
+&lt;p&gt;He also highlighted the importance of good Safe Haven leadership. “Just because there’s a law on the books doesn’t mean anybody has to do anything with it,” Orliss said. “Having people who champion the program, really, really makes a difference.”&lt;/p&gt;
+
+&lt;p&gt;He mentioned Don Knabe, a former state county supervisor who worked on spreading awareness about Safe Haven while in office. Orliss said strong Safe Haven leaders like Knabe are one reason why California’s laws are so effective.&lt;/p&gt;
+
+&lt;p&gt;Burner mentioned that California has Safe Surrender Clinics, where women can relinquish their babies right at the hospital when they give birth rather than bringing them home and risking the safety of a child they don’t wish to keep. Other states don’t allow this type of relinquishment.&lt;/p&gt;
+
+&lt;p&gt;“For 2023 we really start to encourage states to modify the laws to allow a woman to surrender in the hospital, where the baby and the mother are the safest,” Burner said.&lt;/p&gt;
+
+&lt;p&gt;Illinois is similar to California overall, with the third-most effective Safe Haven laws in the country. In Illinois, one fewer baby has been abandoned every three years since the Safe Haven law was instituted here in 2001. Additionally, 151 relinquishments have happened in Illinois over this time period.&lt;/p&gt;
+
+&lt;p&gt;Geras, NSHA’s data collector, is also the Executive Chairperson for Illinois’s &lt;a href=&quot;https://saveabandonedbabies.org/&quot;&gt;Save Abandoned Babies Foundation&lt;/a&gt;. She explained the importance SAB’s connections with different organizations and agencies have in strengthening the laws.&lt;/p&gt;
+
+&lt;p&gt;For example, while writing Illinois’s Safe Haven law with a group of colleagues over twenty years ago, Geras formed a relationship with the &lt;a href=&quot;https://www2.illinois.gov/dcfs/Pages/default.aspx&quot;&gt;Illinois Department of Children and Family Services&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;“Once the law was passed, we maintained that relationship, and I do believe we are the only state in the country that maintains such a close cooperative, working open relationship [with DCFS],” she said.&lt;/p&gt;
+
+&lt;p&gt;SAB has also developed a relationship with the Chicago Fire Department and Chicago Police Department. In past years, a member of each department has served as a board member for the foundation. This partnership is important because fire departments and police stations are two of the places where the Illinois Safe Haven law allows a baby to be relinquished.&lt;/p&gt;
+
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;/h2&gt;
+&lt;p&gt;Despite triumphant states like California and Illinois, among several others, infant abandonment still happens daily in America. To further decrease abandonment rates and make Safe Haven laws more effective, there are a few initiatives to be accomplished.&lt;/p&gt;
+
+&lt;p&gt;“Awareness, awareness, awareness is our mantra,” Geras said. She explained that the more people know about the law, the more people will use the law instead of resorting to abandonment. This means increased training for Safe Haven personnel has to happen in addition to boosting awareness throughout the general public.&lt;/p&gt;
+
+&lt;p&gt;Increasing funding for Safe Haven initiatives is another solution. In Illinois, Geras estimates that each live abandoned baby costs the state $175,000 in administrative costs, foster care costs, police investigation costs, and incarceration costs. This doesn’t include the costs for any medical care the baby might need.&lt;/p&gt;
+
+&lt;p&gt;She uses this metric to argue that it’s in the state’s favor to give them money, something the organization has long been fighting for.&lt;/p&gt;
+
+&lt;p&gt;There are also plans for a national Safe Haven bill. “What we are hoping is to establish a federal Safe Haven law so that there would be basic templates and requirements for every state, so that they would be the same,” Burner said.&lt;/p&gt;
+
+&lt;p&gt;She explained that this would provide federal oversight for infant relinquishment, and also level the playing field across the country. For instance, the federal law could mandate that a relinquished infant can be up to 30 days old, and states would have to abide by that while being able to add their own amendments at the state level.&lt;/p&gt;
+
+&lt;p&gt;As for the likelihood of this potential bill becoming law, Burner said, “This is a good time for us to have this discussion because there’s a lot going on in our world with Roe v. Wade with a lot of different changes.” She’s referencing the Supreme Court’s recent overturning of Roe v. Wade, allowing states to limit or ban abortion.&lt;/p&gt;
+
+&lt;p&gt;“We sit in a very unique position of supporting parents in crisis without having to say or push pro life or pro choice agendas,” she said. “When we look at that, it really helps us establish bipartisan support. Because no one wants to see a baby in a dumpster.”&lt;/p&gt;
+
+&lt;h2 id=&quot;safe-haven-and-roe-v-wade&quot;&gt;Safe Haven and Roe v. Wade&lt;/h2&gt;
+&lt;p&gt;Burner brings up an important point here. As many states across the country have changed or are in the process of changing their abortion laws, Safe Haven laws could become an even more valuable resource for new parents with nowhere to turn.&lt;/p&gt;
+
+&lt;p&gt;The Guttmacher Institute publishes &lt;a href=&quot;https://www.guttmacher.org/sites/default/files/article_files/attachments/hostile_supportive_states_updated_12-30-2020_as_of_date.pdf&quot;&gt;decennial data&lt;/a&gt; about state-by-state abortion regulations and numerically rates each state on its hostility or support of abortions. When this data is joined with the NSHA data, a correlation can be seen between the effectiveness of Safe Haven laws and the presence of supportive abortion legislation.&lt;/p&gt;
+
+&lt;p&gt;The more pro-abortion legislation a state has, the more effective its Safe Haven laws tend to be.&lt;/p&gt;
+
+&lt;iframe title=&quot;Hostility of state abortion laws compared with effectiveness of state Safe Haven laws&quot; aria-label=&quot;Scatter Plot&quot; id=&quot;datawrapper-chart-Heo2V&quot; src=&quot;https://datawrapper.dwcdn.net/Heo2V/3/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;400&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;The abortion law data is from 2020, before Roe v. Wade was overturned and states could institute more hostile laws. States are still continuing to change their laws since the June overturning.&lt;/p&gt;
+
+&lt;p&gt;Given that states with more hostile abortion laws tend to have less effective Safe Haven laws, Safe Haven relinquishment and abandonment figures may begin to shift once new abortion legislation takes effect. If they follow the existing trend, abandonments could rise.&lt;/p&gt;
+
+&lt;p&gt;This is when experts agree awareness becomes crucial. As more and more women are unable to get abortions in several states around the country, they could turn to abandoning their child if they feel they have no other option.&lt;/p&gt;
+
+&lt;p&gt;Geras says, “If anybody is listening, if anybody is reading this, you can help. Talk about it. Tell a friend. You might save a life.”&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 14 Dec 2022 07:00:00 -0500</pubDate>
+        <link>http://comm-260.github.io/fall-2022/fall-2022/safe-havens/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/fall-2022/fall-2022/safe-havens/</guid>
+        
+        
+        <category>final</category>
+        
+      </item>
+    
+      <item>
+        <title>Emergency Response Times in NYC Increase Since 2010</title>
+        <description>&lt;p&gt;Emergency response teams are essential to the wellbeing of New York CityÕs five boroughs. In a densely populated city, it is imperative that responders can assess and react to emergency situations in a timely manner.&lt;/p&gt;
+
+&lt;p&gt;In the 2022 annual MayorÕs Management Report of New York City, Mayor Eric Adams contextualized the work of the New York City Fire Department, or FDNY, as “first responders to more than 1.8 million fires, medical emergencies, and myriad other incidents that impact and threaten public safety each year, FDNY equitably protects the lives and property of all New York City residents and visitors.”&lt;/p&gt;
+
+&lt;p&gt;New York City EMT Karol Materna said that he believes staffing shortages have plagued the Fire Department of New York ever since Covid-19 touched down in the city in March of 2020. According to Materna, “response times city wide has greatly increased as a result of staff shortages and elevated call volumes, and as a result of this, our cities first responders are struggling day in and day out with 16 hour mandated shifts with little compensation or recognition from upper management in our city.” Materna also noticed that 911 call volumes have been consistently higher, and even record breaking, in recent years which directly results in “slow response times when an ambulance has to travel upwards for 60-70 blocks for an imminent emergency due to lack of available units to handle the emergency.”&lt;/p&gt;
+
+&lt;p&gt;Despite the importance of quick emergency response times, according to data provided by the City of New York about FDNY, the length of emergency response times increased 7% from 2010 to 2017, which is equal to an increase of 19.12 seconds slower in 7 years.&lt;/p&gt;
+
+&lt;iframe title=&quot;FDNY Response Times by Fiscal Year&quot; aria-label=&quot;Interactive line chart&quot; id=&quot;datawrapper-chart-ekqmM&quot; src=&quot;https://datawrapper.dwcdn.net/ekqmM/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;400&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+       &lt;/script&gt;
+
+&lt;p&gt;Although an increase of around twenty seconds does not seem like a big deal, when fighting fires in a densely populated city, seconds can save lives and buildings. According to Ready.gov, a government website designed to educate the American public about preparedness and responses to emergencies, fires can spread extremely quickly. Specifically, “In less than 30 seconds a small flame can turn into a major fire. It only takes minutes for thick black smoke to fill a house or for it to be engulfed in flames.” Therefore, an almost linear increasing trend of slower response times for FDNY is extremely significant.&lt;/p&gt;
+
+&lt;p&gt;There are many factors that can contribute to longer emergency response times in New York City. First, there have been wide-spread short staffing issues in the city. In an interview with Rebecca Greenberg for Spectrum News NY1, FDNY Local 2507 Union President, Oren Barzilay, who represents thousands of FDNY first responders, spoke about staffing shortages, “We are hurting out here and that’s why everybody leaves.” Due to short-staffing issues, emergency response teams are scrambling to respond to calls across all boroughs, “It’s an ongoing reshuffling of units every day, all day, and who suffers the most? The person who’s calling 911 for help,” Barzilay said. Examining both MaternaÕs and BarzilayÕs thoughts truly exposes the impact of not having enough essential staff. While emergency response teams in New York City are short staffed, there will be longer emergency response times as there are simply not enough resources for responders to get there in a faster amount of time.&lt;/p&gt;
+
+&lt;p&gt;In addition to universal issues with being short-staffed, emergency response times also vary by borough. According to data from the City of New York from 2017 t0 2019, Brooklyn has the fastest emergency response time, the Bronx and Queens has the slowest.&lt;/p&gt;
+
+&lt;iframe title=&quot;Emergency Response Time to 911 Calls (in seconds)&quot; aria-label=&quot;Column Chart&quot; id=&quot;datawrapper-chart-LlLdS&quot; src=&quot;https://datawrapper.dwcdn.net/LlLdS/3/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;301&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Average Income&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;While there are many factors that can contribute to different average emergency response times by borough, average household income and estimates of uninsured individuals can help us understand the discrepancy. In data from the Citizens’ Committee for Children of New York, the non-profit organization shed light on the median incomes of families who live in New York City boroughs. Just as the Bronx has the slowest emergency response time, the borough also has the lowest average household income.&lt;/p&gt;
+
+&lt;iframe title=&quot;Average Income and Emergency Response Time&quot; aria-label=&quot;Scatter Plot&quot; id=&quot;datawrapper-chart-5GVKt&quot; src=&quot;https://datawrapper.dwcdn.net/5GVKt/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;360&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Uninsured Individuals&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There is also a correlation between the number of uninsured individuals per capita and emergency response times. Just as the Bronx and Queens are the two boroughs with the slowest emergency response times, they are also the two boroughs with the largest percentages of uninsured individuals per capita. The highest being Queens at 32.06% of uninsured individuals per capita, compared to the lowest, Staten Island with 14.66% which has the second fastest emergency response time.&lt;/p&gt;
+
+&lt;iframe title=&quot;% of Uninsured People per Capita
+       &quot; aria-label=&quot;Map&quot; id=&quot;datawrapper-chart-3zAlr&quot; src=&quot;https://datawrapper.dwcdn.net/3zAlr/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;700&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+       &lt;/script&gt;
+
+&lt;p&gt;It takes emergency responders the longest to attend to 911 calls in the Bronx (5 min 45 seconds) which is also the borough with the lowest average income ($41,432 per household) and the borough with the 2nd highest number of uninsured individuals per capita (28.47% of people).&lt;/p&gt;
+
+&lt;p&gt;In an interview with Hosana Naod, who works in management consulting and lives in Manhattan, she said that it’s apparent that individuals who are uninsured have limited options when looking to receive emergency care, “Even further, if someone is in a more emergent situation and needs to go to urgent care for example, regardless of how minor the health situation is, the results will be costly and out of pocket fees will be much higher without the help of insurance.” When reflecting on the discrepancies in the system, Naod said, “there are definitely biases in place there, because unfortunately even healthcare is a business, and insurance plays a big part in how you are treated within those spaces.”&lt;/p&gt;
+
+&lt;p&gt;In the 2022 MayorÕs Management Report of New York City, Mayor Eric Adams addressed the inconsistency in emergency response times by borough, “Over the course of many years, operational efforts combined with public education have helped reduce the number of serious fires and fire-related deaths, which historically have had a disproportionate impact on low-income neighborhoods and communities of color. To address higher response times to life-threatening medical emergencies in certain parts of the Bronx and Queens, the Department developed strategies and provided additional resources that resulted in improved response times in those communities.” Although Mayor Adams did address the concerns of Naod and many other residents of New York City, until emergency response times improve and are equal in every borough, low-income communities, and boroughs, like the Bronx, will continue to suffer.&lt;/p&gt;
+
+&lt;p&gt;Emergency response services should be outperforming their previous response times each year. Instead, in New York City, the response times are increasing which raises cause for concern. Additionally, there are discrepancies in length of emergency response time by borough which may be attributed to biases and systemic differences in population in each borough. It is essential to the functioning and well-being of New York City, that its emergency response services improve their response times, especially in suffering boroughs and neighborhoods.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 14 Dec 2022 07:00:00 -0500</pubDate>
+        <link>http://comm-260.github.io/fall-2022/fall-2022/response-times/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/fall-2022/fall-2022/response-times/</guid>
+        
+        
+        <category>one</category>
+        
+      </item>
+    
+      <item>
+        <title>Who drafted their team better, The Capitals or The Penguins</title>
+        <description>&lt;p&gt;The &lt;strong&gt;Washington Capitals&lt;/strong&gt; spent almost 10% of its budget on its top 3 players while the
+&lt;strong&gt;Pittsburg Penguins&lt;/strong&gt; spent nearly 2% of theirs. For the Penguins, its top 3 players summed up an amount of 236 points while the Capitals’ top 3 beat them by only two more points. Alex Ovechkin was the player with the most points constituting nearly 38% of the Washington Capitals’ points. &lt;/p&gt;
+
+&lt;p&gt;As you might know, the Washington Capitals count with one of the best players in the history of the NHL, &lt;strong&gt;Alex Ovechkin&lt;/strong&gt;. For the 2021-2022 season, Alex accumulated a crazy amount of 90 points, scoring a total of 50 goals and 40 assists. He can be considered one of the best-paid players in the NHL, with a cap salary of almost 10 million dollars. His salary takes an average of 7% of the Capitals’ budget, which is almost 82.5 million dollars. “Alex Ovechkin is definitely still a good asset”, data and visual journalist &lt;strong&gt;Alvin Chang&lt;/strong&gt; stated.  “He will still be in the team for another five years; however, he can’t be your best player if you want to be a champion”, he concluded. With this analysis, we can say that maybe the Washington Capitals are spending a lot of money on a player that won’t make them earn the ultimate title.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed flourish-scatter&quot; data-src=&quot;visualisation/12094693&quot;&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;On the other hand, the Capitals still have really good players such as &lt;strong&gt;Evgeny Kuznetsov&lt;/strong&gt; and &lt;strong&gt;John Carlson&lt;/strong&gt;. However, even though they are great players, they are 12 and 19 points away from Ovechkin. Alex has scored 50 goals while Kuznetsov and Carlson have not even half of it. They both have salaries above 2 million dollars and they both together take at least 9% of the Capitals’ budget. There is a huge gap between the leading player and the ones following him, so, are the Capitals taking advantage of their resources?.&lt;/p&gt;
+
+&lt;p&gt;“If we go back to 15 or 10 years ago, the Capitals drafted Ovechkin and some other guys that were good values later down the line, doing a really good job drafting”, Chang confirmed. So, even though the Capitals are spending larger amounts of money on these players, in the long run, they were good assets for the team and gave the Capitals big successes against the Penguins. In 2008–09 the Capitals finished as the second-best team in the Eastern Conference, while the Penguins finished as the fourth. All three of the League’s three leading scorers during the regular season played for either Washington or Pittsburgh (Evgeni Malkin, 113 points; Alexander Ovechkin, 110 points; Sidney Crosby, 103 points).&lt;/p&gt;
+
+&lt;p&gt;The Penguins, on the other hand, also count with one of the many legends of the NHL, &lt;strong&gt;Sidney Crosby&lt;/strong&gt;. Crosby accumulated a total of 84 points, scoring 31 goals and getting 53 assists. He is the leading on points of his team, followed by &lt;strong&gt;Jake Guentzel&lt;/strong&gt;. Crosby’s salary is nearly 9 million dollars, taking 11% of the Penguin’s Budget while Guentzel takes only 7% of it.  &lt;/p&gt;
+
+&lt;p&gt;When looking at the stats, it looks like the Penguins are spending less money on their players but getting way better results than the Capitals are. The penguin’s top 3 players accumulated a total of 236 points. What is relevant here is that two out of the three players have 84 points each, and the third one is only 16 points away. This means the Penguins’ top 2 players constitute nearly 36% of its total points each. When compared to the Capitals, Alex Ovechkin by himself constitutes almost 38% of his team’s points so that means the Penguins drafted better than them, getting not one, but two players that are able to get many points. In simple words, the Washington Capitals only have one effective player while the Penguins have two that are capable of earning a good number of points for their teams. &lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed flourish-chart&quot; data-src=&quot;visualisation/12095589&quot;&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;However, former Vox’s data reporter Alvin Chang has a different point of view about it. “The penguins did a decent job drafting in the last couple of years. They got lucky and got Sidney Crosby” he stated. However, what he said about Crosby, maybe the reason why the Penguins are doing better than the Capitals. “He is still one of the best players who ever played in the NHL. He has performed at a higher level now and if you have him on your team, you can make a run with him. He is taking more than 10% of their cap too and I believe that when you do that, you must do it with someone like Sidney Crosby”. &lt;/p&gt;
+
+&lt;p&gt;In terms of money, statistics show that the Penguins are taking better advantage of their resources. Even though Crosby and Ovechkin both take almost 10% of their team’s budget and the Penguins player has fewer points, the difference is not really big, and the Penguins have not one, but two players that are only six points away from the Capitals’ star. &lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed flourish-chart&quot; data-src=&quot;visualisation/12045593&quot;&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;The Penguins have shown that they are smarter when using their resources, drafting players that can lead the team to important titles, and leaving them higher than the Capitals for the 2021-2022 season with a difference of 14 points, the Penguins ending up being third and the Capitals sixth in the Metropolitan division of the NHL. So, in your opinion, who drafted their team better: The Capitals or The Penguins?&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 14 Dec 2022 07:00:00 -0500</pubDate>
+        <link>http://comm-260.github.io/fall-2022/fall-2022/hockey/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/fall-2022/fall-2022/hockey/</guid>
+        
+        
+        <category>Hockey</category>
+        
+      </item>
+    
+      <item>
+        <title>How did Georgia turn into a purple state?</title>
+        <description>&lt;p&gt;nesis Kidd*&lt;/p&gt;
+
+&lt;p&gt;Voting has been a critical part of American history since the start of the country. It is important that every person, who is eligible to vote, to go out and vote. In the original constitution, only white men over the age of 21 were allowed to vote, so minorities did not have a say in how the country was run. Today, laws have been put into place to prohibit discrimination in any form. Citizens can vote at the age of 18 with proper registration. In most states, there is nondiscrimination on this basis of sex, sexuality, or race. The south has implemented laws that are rooted in Jim Crow that are still used today. Georgia has some of the strictest laws that prevent some minorities from voting and registering to vote. Due to this, minorities have made an immense effort to vote, and election outcomes have begun to change. As the years progress, states are starting to change the target of their voting. Georgia is a predominately red state, but in recent elections, it has become purple. In recent years, elections have been extremely tight causing numerous run-off elections. So why is this?&lt;/p&gt;
+
+&lt;h1 id=&quot;demographics&quot;&gt;Demographics&lt;/h1&gt;
+&lt;p&gt;In the state of Georgia, the demographics of voters have a huge impact on how they vote. Most Georgia voters, like many other Americans, vote based upon either their party affiliation or how they are doing economically and socially. According to the Secretary of StateÕs office, there are 7,004,034 active voters as of December of 2021. 3.2 million identify themselves as male and 3.7 million identify themselves as women and 15,556 are unknown. Most voters, 1.4 million, come from residents of the age of 65 and older, and 18-24 years of age land in second place with 821,029. In counting race, 3.7 million active citizen voters identify themselves as white or not of Hispanic origin. 2 million active citizen voters identify themselves as Black not of Hispanic origins. Active citizens that identify as Hispanic, Asian Pacific Islander, American Indian or Alaskan, unknown and all others make up 1.2 million of the active voters. With this being said, minorities make up a significant part of Georgia voters, so it is imperative that their voice is being heard.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed flourish-chart&quot; data-src=&quot;visualisation/12172862&quot;&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;Simi Awujo has been a Georgia resident her entire life. While in college in California, she requests absentee ballots for each election, because she understands the importance of her vote as a minority.&lt;/p&gt;
+
+&lt;p&gt;ÒAs a Black woman, it is essential for me to vote because it is my right to use my voice to elect someone who would represent my values and work towards better living environment for me and others who look like me,Ó Awujo said.&lt;/p&gt;
+
+&lt;h1 id=&quot;senate-run-off-elections&quot;&gt;Senate Run-Off Elections&lt;/h1&gt;
+&lt;p&gt;In recent years, Georgia has been known for its tight elections due to Fulton and surrounding counties having been consistently blue while the rest of the state is red. In todayÕs Georgia politics, votersÕ turnout in early voting which happens throughout the weekend with long lines which they can stand in for more than three hours. In the past two senate elections that Georgia has had, both had led into run-off elections because the count was too close to call. More than 1.8 million residents have voted early in the 2022 Georgia Run-off.  In certain counties like Fulton and DeKalb County, if most of the residents turn out to vote then the election could sway in a whole another way than election pundits would not have guessed. There are laws that limit the accessibility to vote but it doesnÕt stop Georgia voters from coming out and making their voices heard. 3.5 million Georgia residents either voted for Senator Raphael Warnock or Herschel Walker. Though the count was still very close, Senator Warnock pulled off the win. Residents of Georgia, from all over the country were very energized and enthusiastic about the election. Politically figures descended in Georgia, a notable one being Former President Barack Obama, to help campaign for Raphael Warnock. While Republican senator Lindsey Graham made an appearance at Herschel WalkerÕs campaign rally and spoke. People of fame who lived in Georgia like Former Mayor Keisha Lance Bottoms were posting about them either early voting or just voting in general and emphasizing the encouragement of people to vote and being involved in their civic duty. College students were sending in their mail-in ballots or going down to Georgia to make sure to get their votes in. Many other people, like myself, voted during early voting over Thanksgiving break with my family.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed flourish-chart&quot; data-src=&quot;visualisation/12186720&quot;&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;Tyler Brown-Dewese is an advocate for voting rights, and making sure that everyone’s voice is being heard. He understands the importance of getting everyone who is eligible to vote, to vote, especially in states like Georgia.&lt;/p&gt;
+
+&lt;p&gt;ÒNow more than ever is it important for Georgians to vote, because for a second time in a row, the second U.S. Senate seat for Georgia has been close and has been called into a runoff. The vote is the most powerful tool Americans must control their government and make sure they have authority over what happens in the halls of power that govern,Ó Brown-Dewese said.&lt;/p&gt;
+
+&lt;iframe title=&quot;Senate Run-Off Turn Out&quot; aria-label=&quot;Multiple Pies&quot; id=&quot;datawrapper-chart-Dn6uw&quot; src=&quot;https://datawrapper.dwcdn.net/Dn6uw/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;239&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;h1 id=&quot;georgia-voter-history&quot;&gt;Georgia Voter History&lt;/h1&gt;
+&lt;p&gt;Historically, Georgia has always been a red state and picks solely the Republican Party. The last time Georgia went blue in a Presidential Election was back in 1992, when then-Governor Bill Clinton beat the incumbent President George H.W. Bush Sr. But the 2020 election changed the course of history that many did not believe would/could have happened. No one believed that a Democrat, especially in the era of the Donald Trump Republican Party, that the state of Georgia would turn purple by going blue. Then Former Vice President Joe Biden, had won the state after a couple of days of poll workers counting mail-in ballots that held not just the results in Georgia up, but other states too, like Nevada, Pennsylvania, Wisconsin, and Arizona. The state turned completely blue, apart from the governorÕs race in 2018, with Democratic senators and a Democratic president winning these hotly contested seats.&lt;/p&gt;
+
+&lt;p&gt;Mayana Silas, an advisor at Georgia State University, has been a Georgia resident for almost 20 years. She seen crutial Georgia elections, and votes based on what is best for her family.&lt;/p&gt;
+
+&lt;p&gt;ÒI vote depending on how my life is and if my family and I are doing ok economically. I need to feel secure in my economics. Most people choose a party and stick to it, but I look at each candidate and decide who to vote for based on my family,Ó Silas said.&lt;/p&gt;
+
+&lt;iframe title=&quot;Georgia Voter Turnout&quot; aria-label=&quot;Map&quot; id=&quot;datawrapper-chart-F61Yj&quot; src=&quot;https://datawrapper.dwcdn.net/F61Yj/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;754&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;Georgia is a state with interesting and complex politics. With its capital, Atlanta being some of the deciding factors for most elections, Georgia could become blue in many future elections. Again, the tricky part is the surrounding counties, and its strong southern history. It is imperative that people continue to fight for their rights to vote and continue to go out to vote. Each vote is important, and with elections being so close, it could change the entire outcome of the election.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 14 Dec 2022 07:00:00 -0500</pubDate>
+        <link>http://comm-260.github.io/fall-2022/fall-2022/georgia/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/fall-2022/fall-2022/georgia/</guid>
+        
+        
+        <category>one</category>
+        
+      </item>
+    
+      <item>
+        <title>As fatal K-12 shooting incidents increase</title>
+        <description>&lt;p&gt;K-12 school shooting incidents in the United States have continued to increase over recent years. Since 1991, the fatality of these incidents is similarly on the rise to the concern of experts, students, and parents.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://flo.uri.sh/visualisation/12083751/embed&quot; title=&quot;Interactive or visual content&quot; class=&quot;flourish-embed-iframe&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;width:100%;height:600px;&quot; sandbox=&quot;allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;width:100%!;margin-top:4px!important;text-align:right!important;&quot;&gt;&lt;a class=&quot;flourish-credit&quot; href=&quot;https://public.flourish.studio/visualisation/12083751/?utm_source=embed&amp;amp;utm_campaign=visualisation/12083751&quot; target=&quot;_top&quot; style=&quot;text-decoration:none!important&quot;&gt;&lt;img alt=&quot;Made with Flourish&quot; src=&quot;https://public.flourish.studio/resources/made_with_flourish.svg&quot; style=&quot;width:105px!important;height:16px!important;border:none!important;margin:0!important;&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Line chart of the number of fatal school shootings per year from 1991 to 2022.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;From 2018 to the present, an average of 27 fatal school shooting incidents occur per year in the U.S. Numbers this large have not been seen since 1993 when 32 fatal incidents took place in American schools across the country.&lt;/p&gt;
+
+&lt;p&gt;Since this spike, the U.S. saw an average of only eight fatal shootings per year from 1994 to 2017. The past four years show an average number of yearly shootings nearly 3.5 times the average of the previous 23-year period.&lt;/p&gt;
+
+&lt;iframe title=&quot;Fatal school shooting incidents per capita&quot; aria-label=&quot;Map&quot; id=&quot;datawrapper-chart-ysdBi&quot; src=&quot;https://datawrapper.dwcdn.net/ysdBi/2/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;527&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();&lt;/script&gt;
+
+&lt;p&gt;&lt;em&gt;Choropleth map of fatal school shootings in the U.S. by state, per capita by ten million individuals, from 1991 to 2022.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;From 1991 to 2022, a total of 386 fatal school shootings occurred in the U.S. States such as Tennessee, Louisiana, and Mississippi have seen some of the highest rates of fatal school shootings with 21, 22, and 21 fatal school shootings incidents per capita by ten million individuals, respectively from 1991 to 2022.&lt;/p&gt;
+
+&lt;h2 id=&quot;exploring-the-problem&quot;&gt;&lt;strong&gt;Exploring the problem&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;David Riedman is the creator of the &lt;a href=&quot;https://www.chds.us/ssdb/&quot;&gt;K-12 School Shooting Database&lt;/a&gt;, a dataset that documents every instance a gun is pulled, fired, or a bullet hits K-12 school property for any reason. Riedman began compiling the dataset during his time with the Homeland Security Advanced Thinking Program at the Naval Postgraduate School in 2018.&lt;/p&gt;
+
+&lt;p&gt;Prior to 2018, there was no comprehensive national database for school shooting incidents. Riedman and his research partner compiled the database using information from news stories, Google alerts, and social media.&lt;/p&gt;
+
+&lt;p&gt;Riedman emphasized the importance of recognizing the scale of the issue. Through the data, it is clear that school shootings are a national issue, impacting students in every state.&lt;/p&gt;
+
+&lt;p&gt;“[School shooting incidents] are really spread everywhere. This happens in all sized communities – urban, suburban, rural – and in every part of the country. There have been shootings in every single state,” said Riedman.&lt;/p&gt;
+
+&lt;p&gt;All over the country, there has been an increase in the number of victims and the fatality of K-12 school shootings.&lt;/p&gt;
+
+&lt;p&gt;“Planned attacks – situations like Uvalde, Parkland, or Oxford – are relatively steady, but the number of victims and the number of fatalities is increasing in recent years,” said Riedman.&lt;/p&gt;
+
+&lt;h2 id=&quot;gun-control-laws&quot;&gt;&lt;strong&gt;Gun control laws&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Gun control laws aim to regulate the possession and purchase of firearms, including the types of guns that may be owned, waiting periods required for purchase, and the classification of persons who are prohibited from owning firearms.&lt;/p&gt;
+
+&lt;p&gt;States across America have varying levels of gun control laws with some being stricter than others. The aforementioned states of note (Louisiana, Mississippi, and Tennessee) have relatively low levels of gun control laws with 19 in Louisiana, 10 in Mississippi, and 24 in Tennessee.&lt;/p&gt;
+
+&lt;iframe title=&quot;State gun control laws&quot; aria-label=&quot;Map&quot; id=&quot;datawrapper-chart-9h45m&quot; src=&quot;https://datawrapper.dwcdn.net/9h45m/2/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;508&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();&lt;/script&gt;
+
+&lt;p&gt;&lt;em&gt;Choropleth map of the number of gun control laws in each state.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Riedman argues that gun control laws may be effective in limiting public mass shootings but their effect in minimizing school shootings remains questionable.&lt;/p&gt;
+
+&lt;p&gt;“In terms of school shootings, the majority of perpetrators are students. They’re mostly middle school and high school students; they’re under 18. They’re not allowed to purchase weapons in any state already. They’re getting their guns from someone else – that’s not something that can be solved legally at the point of sale,” said Riedman.&lt;/p&gt;
+
+&lt;p&gt;The National Rifle Association (NRA) is a gun rights advocacy organization based in the U.S. The NRA states that gun control laws have relatively little effect on violent crime rates across the country.&lt;/p&gt;
+
+&lt;p&gt;“In fact, cities with some of the most stringent gun laws, like New York and Chicago, suffer from some of the highest violent crime rates,” &lt;a href=&quot;https://www.nraila.org/why-gun-control-doesn-t-work/&quot;&gt;according to the organization’s website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe title=&quot;State gun control laws and fatal school shooting incidents&quot; aria-label=&quot;Scatter Plot&quot; id=&quot;datawrapper-chart-1XCh1&quot; src=&quot;https://datawrapper.dwcdn.net/1XCh1/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;400&quot; data-external=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();&lt;/script&gt;
+
+&lt;p&gt;&lt;em&gt;Scatter plot of the number of gun control laws and fatal school shooting incidents by state.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-impact-of-gun-violence-on-school-children-in-america&quot;&gt;&lt;strong&gt;The impact of gun violence on school children in America&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Despite the debated effectiveness of gun control laws, it remains that gun violence has a particular impact on school children in America.&lt;/p&gt;
+
+&lt;p&gt;John Woodrow Cox is a reporter from the Washington Post who has extensively researched gun violence’s effect on school children in America. He worked extensively on the Post’s &lt;a href=&quot;https://www.washingtonpost.com/graphics/2018/local/school-shootings-database/&quot;&gt;database on school shootings&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;“When somebody is shot, they’re going to have lifelong psychological and physical consequences from it,” said Cox.&lt;/p&gt;
+
+&lt;p&gt;For nationally recognized incidents, victims may be provided resources and care from the public, but with smaller skirmishes, victims are often left with little help.&lt;/p&gt;
+
+&lt;p&gt;“If it’s a nationally known incident, there are GoFundMes set up and insurance funds and resources for victims for the rest of their lives, but there can be a bystander that’s shot during a fight in the hallway and that person is going to have really serious injuries,” said Riedman.&lt;/p&gt;
+
+&lt;p&gt;School children in America have spoken out about the impacts of gun violence in schools. The Stoneman Douglas Shooting in Parkland, Florida on Feb. 14, 2018, took the lives of 17 high school students. Student survivors of the shooting have spoken out about gun violence and the need for gun control.&lt;/p&gt;
+
+&lt;p&gt;“We have grown up in this country and watched violence unfold to no resolution. We have watched people with the power and authority to make changes fail to do so,” &lt;a href=&quot;https://www.teenvogue.com/story/emma-gonzalez-parkland-gun-control-cover&quot;&gt;said X (previously Emma) Gonzalez&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 14 Dec 2022 07:00:00 -0500</pubDate>
+        <link>http://comm-260.github.io/fall-2022/fall-2022/fatal-shootings/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/fall-2022/fall-2022/fatal-shootings/</guid>
+        
+        
+        <category>one</category>
+        
+      </item>
+    
+  </channel>
+</rss>

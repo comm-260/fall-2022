@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COMM-260 Quant Methods &amp; Data Viz (Spring 2022)</title>
+    <description>Final projects from students in Quantitative Methods &amp; Data Visualization at American University Fall 2022.  
+</description>
+    <link>http://comm-260.github.io/spring-2022/spring-2022/</link>
+    <atom:link href="http://comm-260.github.io/spring-2022/spring-2022/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 05 May 2022 00:52:53 -0400</pubDate>
+    <lastBuildDate>Thu, 05 May 2022 00:52:53 -0400</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Lack of Farmers Markets in New York’s Black Neighborhoods</title>
+        <description>&lt;p&gt;Jalah Scott spent almost every weekend of her childhood in Downtown Brooklyn, New York. Every weekend after basketball practice at the Dodge YMCA on Atlantic Ave. her mother would take her to the Brooklyn Borough Hall Greenmarket to restock the house with fresh organic produce. 
+“I loved that farmers market but my very frugal mother loved it more.” Said Scott. “There was nothing like it near our home in East Flatbush and for a long time I thought that was the only farmers market in the city. Nowhere else could we get organic fruits and vegetables that didn’t have to get shipped across the country or cost an arm and a leg. It was completely worth commuting the 45 minutes back home lugging around huge tote bags full of food if we could save some money.”
+A young Scott would be surprised to learn that New York is actually home to over 100 different. The reason that Scott and countless other New Yorkers are forced to commute to their not so local farmers markets is yet another side-effect of the racial inequality of the city. This is because there are about double the amount of farmers markets in majority white neighborhoods than there are in majority Black neighborhoods. Black low income New York residents have a harder time finding fresh organic produce from the many local growers in and around the city because there are far fewer farmers markets in areas that are majority Black.&lt;/p&gt;
+
+&lt;iframe title=&quot;Types of Neighborhoods Farmers Markets Are In &quot; aria-label=&quot;Pie Chart&quot; id=&quot;datawrapper-chart-YUhfA&quot; src=&quot;https://datawrapper.dwcdn.net/YUhfA/3/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;562&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;h2 id=&quot;ethnic-history-of-farmers-markets-in-new-york&quot;&gt;Ethnic History of Farmers Markets in New York&lt;/h2&gt;
+
+&lt;p&gt;Until the mid 20th century markets were the essential part of living in New York City. New York’s ports were a world-class hub for the movement of people and products and as such there was a huge market for farmers to sell their produce. 
+“From the start it was actually the heavy presence of ethnic and cultural minorities that drove the produce cultivation and consumption that allowed markets to grow the way they did in the city” Says Carol Durst-Wertheim, the president of the board of the Federated Conservationists of Westchester County and author of “History of the Food Markets of NYC”. Because of the etnic ties associated with them, markets took on a much more important role than merely providing for the people of New York. These markets became a source of common  interest for the minority groups who were running and purchasing from them.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed flourish-map&quot; data-src=&quot;visualisation/9371868&quot;&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;Annually, New York State collects data on farmers and community farmers markets for the Department of Agriculture and Markets. The department collects information on the location, contact information, hours of operation, seasons of operation and the different government aid types that are accepted at the markets. 
+Using the data from the Department of Agriculture and Markets in conjunction with census information on the racial makeup of the over 2,000 census tracts in New York City we can paint a picture of the types of neighborhoods that are home to a majority of the farmers markets. These maps show that there is a high concentration of farmers markets in neighborhoods that have a majority white population, especially concentrated in and lower manhattan a part of the city that has a very high cost of living.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed flourish-map&quot; data-src=&quot;visualisation/9371890&quot;&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Wed, 04 May 2022 14:00:00 -0400</pubDate>
+        <link>http://comm-260.github.io/spring-2022/spring-2022/farmers-markets/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/spring-2022/spring-2022/farmers-markets/</guid>
+        
+        
+        <category>one</category>
+        
+      </item>
+    
+      <item>
+        <title>Road construction projects to cause major travel delays in Yellowstone National Park</title>
+        <description>&lt;p&gt;Three new road construction projects will cause major delays for travelers within Yellowstone National Park this summer.&lt;/p&gt;
+
+&lt;iframe title=&quot;Yellowstone National Park&quot; aria-label=&quot;Locator maps&quot; id=&quot;datawrapper-chart-koffB&quot; src=&quot;https://datawrapper.dwcdn.net/koffB/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;586&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;The projects include the replacement of the Lewis River Bridge, repaving and reconstruction of the Grand Loop Road between Old Faithful and West Thumb, and replacement of the Yellowstone River Bridge. Each project is expected to cause an extra 30-minute delay on the road. The projects must be worked on between April and early November due to the extreme winter weather conditions that occur the rest of the year.&lt;/p&gt;
+
+&lt;p&gt;The road construction projects are likely in response to increased visitation, which is having major impacts on road conditions. It also addresses &lt;a href=&quot;https://www.nps.gov/subjects/infrastructure/deferred-maintenance.htm&quot;&gt;deferred maintenance&lt;/a&gt;, which refers to repairs postponed over one year. Currently, paved roads and structures account for over 50% of deferred maintenance across the National Park System.&lt;/p&gt;
+
+&lt;iframe title=&quot;Percent change for visitation and traffic&quot; aria-label=&quot;Interactive line chart&quot; id=&quot;datawrapper-chart-1HYlr&quot; src=&quot;https://datawrapper.dwcdn.net/1HYlr/2/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;Historically, recreational visitors and traffic increase or decrease at about the same rate. This means that increasing visitation is impacting not just trails and lodging, but also road conditions and structures. As more traffic passes through the park each year, the quality and safety of roads and bridges will deteriorate faster. This is especially true for older infrastructure that has not been repaired or replaced in decades.&lt;/p&gt;
+
+&lt;iframe title=&quot;Average percent of traffic in the last 5 years&quot; aria-label=&quot;Map&quot; id=&quot;datawrapper-chart-UJQpA&quot; src=&quot;https://datawrapper.dwcdn.net/UJQpA/2/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;699&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;The rehabilitation of the Grand Loop Road between Old Faithful and West Thumb will have the largest impact on visitors this summer given its proximity to Old Faithful, one of the most famous thermal features in Yellowstone. The construction zone spans 22 miles and is described by &lt;a href=&quot;https://www.nps.gov/yell/planyourvisit/road-construction.htm&quot;&gt;Yellowstone National Park&lt;/a&gt; as “one of the most heavily traveled road corridors in the park.” In addition, the road is located between the West and South Entrances with the first and third highest amounts of traffic. The construction is expected to be completed in fall 2023, so visitor impacts will extend to next summer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://live.staticflickr.com/1839/42223624844_8b4fa79480_b.jpg&quot; width=&quot;100%&quot; /&gt;
+&lt;em&gt;The Lewis River Bridge in 2017. Taken by Doug Madsen, NPS.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The replacement of the Lewis River Bridge will have the second greatest impact on visitors this summer due to its proximity to the South Entrance, which has the third-highest amount of traffic. The 273-foot-long bridge will be completely removed and replaced. However, the construction of a new bridge downstream will give visitors safe passage to and from the South Entrance. Project completion is predicted for fall 2023, so these travel delays will also extend to next summer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/50238800717_65de2dc658_b.jpg&quot; width=&quot;100%&quot; /&gt;
+&lt;em&gt;Yellowstone River Bridge conditions in 2020. Taken by Jacob W. Frank.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Out of the three construction projects, the Yellowstone River Bridge will have the smallest impact on visitors this summer because it is closest to the Northeast Entrance, which has the lowest amount of traffic out of all the entrances; however, the replacement will have more significant long-term impacts because it is not expected to finish until fall 2025. Like the Lewis River Bridge, this 604-foot-long bridge will be completely replaced, and a temporary bridge upstream will provide safe passage in its place.&lt;/p&gt;
+
+&lt;p&gt;Despite the major delays, Yellowstone National Park maintains that the positive long-term impacts of road construction projects outweigh the short-term inconvenience of longer travel times. In the most recent State of the Park report, they asserted that “Visitor experience and frustration ratings appeared to have little to no significant correlation with GPS-based average speeds across road segments in the park. Respondents were generally not frustrated, gave high experience ratings, and did not perceive major problems on roadways.”&lt;/p&gt;
+
+&lt;p&gt;Major road construction projects have historically had other impacts on the visitor experience outside of travel times. In 2021, the major construction efforts from Tower-Roosevelt to Chittenden Road were finished. One of the losses during its construction was access to trails for Mount Washburn. Similarly, the trail to Lewis River Falls will be closed this summer. By the Yellowstone River Bridge, hiking trails will remain open; but the Yellowstone River Picnic Area and Wrecker Curve access road and parking area will be closed. No trails or sites are expected to close on the Grand Loop Road construction zone.&lt;/p&gt;
+
+&lt;p&gt;Decision-making about how and when to initiate road construction projects goes beyond just the National Park Service. In addition to considering environmental impacts, they also must consider the business implications for the hospitality and concessions companies operating within the park. Xanterra Travel Collection, the primary authorized concessioner in Yellowstone, manages lodging, dining, shopping, and recreational activities within the park. This business accounts for the vast majority of &lt;a href=&quot;https://www.nps.gov/subjects/socialscience/vse.htm&quot;&gt;visitor spending&lt;/a&gt; at Yellowstone, which in turn impacts the economic output. Rick Hoeninghausen, the director of sales for Yellowstone National Park Lodges, emphasized that decisions about road construction projects are made through a two-way communication process. He noted that “Discussions begin at the park service, but they quickly loop us in to coordinate and ask opinions on how construction will impact the business.” As a team, they must decide whether to close certain roads, and then come up with solutions in order to not cut off parts of the park. The potential impacts on visitors remain at the center of discussions for Xanterra Travel Collection, given that their business revolves around creating successful visitor experiences.&lt;/p&gt;
+
+&lt;p&gt;All three road construction projects are funded by the Great American Outdoors Act (GAOA) and Legacy Restoration Fund (LRF). The GAOA passed in 2020 in an effort to address the deferred maintenance backlog. The bipartisan legislation was championed by conservation groups, especially the National Parks Conservation Association (NPCA).&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://www.npca.org/regions/northern-rockies&quot;&gt;Northern Rockies Region of the NPCA&lt;/a&gt; note in their mission statement that “…in this recreation wonderland, they strive to balance visitor use with natural resource protection…” Road construction projects play a key role in that balance because they fix problems caused by visitor use and in the process protect natural resources from potential damage. For instance, the construction of guardrails, culverts, and other drainage structures on the Grand Loop Road will both increase visitor safety and protect the surrounding environment. The construction of new pullouts parking areas, alongside the Yellowstone River Bridge, will increase visitor access while simultaneously discouraging visitors from pulling off the road and parking in undesignated areas.&lt;/p&gt;
+
+&lt;iframe title=&quot;2022 GAOA funding estimate for NPS&quot; aria-label=&quot;Map&quot; id=&quot;datawrapper-chart-BhBDV&quot; src=&quot;https://datawrapper.dwcdn.net/BhBDV/2/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;501&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;The National Park Service has refined their methodology for selecting deferred maintenance projects, taking a variety of databases and factors into consideration. John Garder, the Senior Director of Budget &amp;amp; Appropriations at NPCA, noted that the GAOA has elevated the importance of visitor and staff use of a facility or infrastructure in the project evaluation process. He commented that “The funding is more skewed to larger projects than we expected. The GAOA is their chance to get these projects done without having to do multi-year funding.” This explains the magnitude of the projects in Yellowstone National Park this summer, as both the size of the park and the high number of annual visitors make many of their projects big endeavors.&lt;/p&gt;
+
+&lt;p&gt;The GAOA is a big step in providing funding for the National Park Service, but it will only address half of the backlog. The total National Park Service project list under the GAOA includes 48 projects total in 2021, 34 projects in 2022, and 27 proposed projects for 2023. The road construction projects occurring this summer were approved in 2021 or 2022, so the only project listed under 2023 is the rehabilitation of the Old Faithful Wastewater Collection and Treatment System. However, all three road construction projects will still be underway in 2023, so the traffic delays will remain despite the decreasing number of projects listed each year for funding.&lt;/p&gt;
+
+&lt;p&gt;Beyond the issues with deferred maintenance, there are also problems with loss of staff, increased visitation, and the threat of climate change. These issues all require government funding and planning to improve sustainability and conservation efforts, support staff, and fix infrastructure issues. Aside from the projects, Yellowstone will be celebrating its 150th anniversary this summer. In anticipation of the celebrations, the most recent &lt;a href=&quot;https://www.nps.gov/yell/learn/management/upload/State-of-the-Park-Final-Pages.pdf&quot;&gt;State of the Park report&lt;/a&gt; stated “This milestone is an important reminder of our continuing responsibility as national park leaders. While much has been accomplished, a considerable amount of work remains in front of us. We will continue making decisions that aim to protect the health of Yellowstone for centuries to come.”&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 May 2022 08:00:00 -0400</pubDate>
+        <link>http://comm-260.github.io/spring-2022/spring-2022/yellowstone-traffic/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/spring-2022/spring-2022/yellowstone-traffic/</guid>
+        
+        
+        <category>one</category>
+        
+      </item>
+    
+      <item>
+        <title>The Pandemic’s Rent Problem: a Retrospective</title>
+        <description>&lt;div class=&quot;flourish-embed flourish-map&quot; data-src=&quot;visualisation/9352644&quot;&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;The pandemic was a universal struggle for almost all Americans. One of the main areas that created a lot of tension for many Americans was the issue of paying rent. At a time when money was scarce, it seemed like landlords were raising rental prices around the country. Looking back at this issue can provide us with some insights into why this happened and what caused the problem.&lt;/p&gt;
+
+&lt;p&gt;The pandemic was a universal struggle for almost all Americans. One of the main areas that created a lot of tension for many Americans was the issue of paying rent. At a time when money was scarce, it seemed like landlords were raising rental prices around the country. Looking back at this issue can provide us with some insights into why this happened and what caused the problem.&lt;/p&gt;
+
+&lt;p&gt;​On average, during the first year of the pandemic, rent rose for 1 bedroom apartments in major US cities by an average of 19.36%, while, on average, populations stayed relatively the same and unemployment skyrocketed.&lt;/p&gt;
+
+&lt;iframe title=&quot;Rent Price Change in US Cities 2020-2021&quot; aria-label=&quot;Bar Chart&quot; id=&quot;datawrapper-chart-1vVQK&quot; src=&quot;https://datawrapper.dwcdn.net/1vVQK/3/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;2603&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();&lt;/script&gt;
+
+&lt;p&gt;​“Because of the pandemic, a lot of property managers, landlords, investors, sold their investment properties,” says Joe Lonabaugh, a realtor from Keller Williams Realty out of Philadelphia, “This means that there are no places to go, which ended up raising the rental prices.” Essentially, investors and property managers, due to uncertainty in the market caused by the pandemic, altered the supply and demand of the rental market. By selling their properties they greatly decreased the rental supply, all while the demand stayed the same or even went up in some places. This provides part of the solution we need to figure out why rent was increasing at a time when it seemingly should have fallen.&lt;/p&gt;
+
+&lt;h2 id=&quot;outliers&quot;&gt;&lt;strong&gt;&lt;em&gt;Outliers&lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;However, during the first year of the pandemic, some cities did not follow this trend of rent increase; on the contrary, rent fell by a fair amount in these particular places. Major population centers, such as San Francisco, Boston, and New York, all saw their rent decrease by almost 20 percent or more.&lt;/p&gt;
+
+&lt;iframe title=&quot;Price Changes vs. Population Changes in Major Cities &quot; aria-label=&quot;Scatter Plot&quot; id=&quot;datawrapper-chart-l4o07&quot; src=&quot;https://datawrapper.dwcdn.net/l4o07/2/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;284&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();&lt;/script&gt;
+
+&lt;p&gt;The chart shows a clear correlation, excluding the one outlier of San Jose, between rent prices and population. In San Francisco, there was a loss of population by about one and a half percent, which then led to rent shrinking by about 24%. This would make sense, as fewer people lead to less demand, which will lower the overall market.&lt;/p&gt;
+
+&lt;p&gt;I reached out to Carla Cierra, a real estate agent based in New York City, one of the cities that saw a loss in population, to talk about this subject. “In New York City, where we work, there was a max exodus of people, especially at the beginning of the pandemic, as people moved to where there was more outdoor space,” Cierra said, “vacancy rates shot up and prices came down considerably”. Cierra is explaining exactly what the data shows - as people are leaving these major population centers, the supply of rentals is rising, lowering prices.&lt;/p&gt;
+
+&lt;p&gt;“There was a decrease in demand,” says Ken Blagburn of DC Real Property, “people were staying where they were, [with] less transient behavior … prices definitely took a hit, rental market took a hit”. Blagburn provides a similar story to Cierra. Less people looking to rent dropping the demand, lowering the overall price.&lt;/p&gt;
+
+&lt;h2 id=&quot;making-the-correlation&quot;&gt;&lt;strong&gt;&lt;em&gt;Making the Correlation&lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;So, we now know that there seems to be a direct relationship between the population change of a city and the rent prices of apartments, at least in the first year of the pandemic. In order to make sure that this is an actual trend and just the case in one sample time period, we need to dig into the data from the next year, 2021-2022. This year, although enduring spikes of coronavirus, was a year of hope - vaccines, people going back to school and work, and a slow start to return to normalcy. As people return to more urban areas we should see that correlation with population and rent prices again.&lt;/p&gt;
+
+&lt;iframe title=&quot;Price Changes vs. Population in Major Cities&quot; aria-label=&quot;Scatter Plot&quot; id=&quot;datawrapper-chart-OjNj2&quot; src=&quot;https://datawrapper.dwcdn.net/OjNj2/2/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;663&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();&lt;/script&gt;
+
+&lt;p&gt;This chart, once again, shows that there is a relationship between population change and rental prices. In almost all the cities on the chart, there is population growth, leading to the rise in rental prices. In Miami, there was a population growth of over 1%, which resulted in an average rent increase of about 58%. Both Lonabaughm and Cierra agree with this trend. “Towards the ‘end’ of the pandemic, there were far more people looking to rent than there previously were. That’s still going on today”, says Lonabaughm. “In NYC now prices are higher than before,” Cierra replied, “The rental market is on fire, people are looking towards the city, especially young people.” With the pandemic seemingly reaching the end stages, people are eager to return to cities and resume living their lives.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-last-piece-of-the-puzzle&quot;&gt;&lt;strong&gt;&lt;em&gt;The Last Piece of the Puzzle&lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;​The last piece of the puzzle to discovering the issue of rent during the pandemic, particularly during the first year, is the unemployment rate. We know that in some major cities, such as New York or San Francisco, there was a loss in population, resulting in rent decreases. However, for a majority of places rent rose. So, I wanted to have a look at the unemployment rate to see if that exacerbated the problem of rising rent.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed flourish-map&quot; data-src=&quot;visualisation/9420288&quot;&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;This chart shows the unemployment rates over the first year of the pandemic. Throughout America, the unemployment rate rose by an average of 36.47%. This, when combined with the average rise of 19.36% in rent that same year, is definitely a reason why so many Americans faced problems when having to pay their rent that year.&lt;/p&gt;
+
+&lt;h2 id=&quot;in-the-end&quot;&gt;&lt;strong&gt;&lt;em&gt;In the End&lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;The rise in rent, at least in places where rent rose, was caused by less properties being available, due to property managers and investors selling them, causing the supply to shrink, increasing the price. This was exacerbated by the rising unemployment rate in most states, causing people to struggle to pay rent. On the other hand, in cities where the rent lessened, it was caused by a migration of people from the cities to the suburbs, in order to get more space at a time when everyone was stuck at home.&lt;/p&gt;
+
+&lt;p&gt;The government did their best to provide relief for this, with stimulus packages and other forms of payment to offset living expenses. However, the pandemic was still a troubling time for many Americans, with rent being one of the many factors that created tensions in people’s lives. Hopefully we are able to move on now and leave it behind us.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 May 2022 08:00:00 -0400</pubDate>
+        <link>http://comm-260.github.io/spring-2022/spring-2022/rent-pandemic/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/spring-2022/spring-2022/rent-pandemic/</guid>
+        
+        
+        <category>COVID</category>
+        
+      </item>
+    
+      <item>
+        <title>Rats on the rise in NYC</title>
+        <description>&lt;p&gt;Garbage piles feed them, subway stations house them, they’re inescapable–they’re everywhere. 
+You descend the broken escalator that leads down to the churning New York City subways, glancing to the side to see a few fighting over a moldy slice of pizza. You shiver with disgust and quicken your pace. Next thing you know, one of them scurries across your path, you fight back a scream and think to yourself, &lt;em&gt;will I ever get used to this?&lt;/em&gt; 
+To be completely honest…probably not.&lt;/p&gt;
+
+&lt;p&gt;Rats, garbage, and grime are all part of the metropolitan-package-deal; you really can’t have one without the others. Knowing this, it’s still important to combat the issue as best the city can. Rats are extremely common spreaders of dirt, bacteria, and diseases. Hundreds of years ago these  critters paved the way for the Bubonic Plague, and, if gone unchecked, could pave the way for more just like it.&lt;/p&gt;
+
+&lt;p&gt;During the height of the world’s most recent wide-spread sickness, bats were a common
+inhibitor, mosquitoes had a hand in malaria, and raccoons are notorious for giving your neighbor’s dog rabibbies…rats are no less of a threat–especially in New York City.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/data&quot;&gt;New York City’s Open Data&lt;/a&gt; recorded well over 300,000 rodent complaints reported via their available 311 service line from 2010 to 2022–unsurpringing seeing as &lt;a href=&quot;https://www.nyrentownsell.com/blog/new-york-city-rat-issue/#:~:text=The%20Rat%20Population&amp;amp;text=Although%20there%20is%20no%20exact,million%20rats%20in%20the%20city.&quot;&gt;“roughly 2 million,”&lt;/a&gt; rats exist within the city alone–New York City’s rat population more than triples the current population of Staten Island alone. And the rat rates are only rising: from 2010 to 2020 there was a 24% increase in rat sightings.&lt;/p&gt;
+
+&lt;iframe title=&quot;Percent Change in Rats 2010-2021&quot; aria-label=&quot;Map&quot; id=&quot;datawrapper-chart-lh3Sy&quot; src=&quot;https://datawrapper.dwcdn.net/lh3Sy/6/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;701&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;iframe title=&quot;Percent Change in Refuse Collection 2010-2021&quot; aria-label=&quot;Map&quot; id=&quot;datawrapper-chart-960QZ&quot; src=&quot;https://datawrapper.dwcdn.net/960QZ/5/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;701&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;Nearly every NYC community district saw an increase in rat complaints, the largest being from Manhattan, where rat matters doubled. There were about 350 rat complaints in Manhattan on average in 2010, meanwhile more than 800 rats were seen in Manhattan’s in 2021– Manhattan single-handedly experienced a 130% increase in rats.&lt;/p&gt;
+
+&lt;p&gt;During  COVID-19 pandemic many NYC citizens left the city while the case
+ numbers continued to grow, and, as the humans fled–so did their trash. Sidewalk trash is essentially a five star meal to rats, (remember Remi’s brother from &lt;em&gt;Ratatouille?&lt;/em&gt;) The more hot garbage, the better. NYC’s garbage tonnage has only seen increases over the past six years, directly correlating with the rat complaint increases.&lt;/p&gt;
+
+&lt;p&gt;Once most citizens returned from the &lt;a href=&quot;https://abc7ny.com/nyc-exodus-census-fleeing-leaving/10949972/&quot;&gt;COVID-19 pandemic “exodus”&lt;/a&gt; the rats had all but taken over the city. Rats in Brooklyn had an  over 50% increase in sightings just from 2020 to 2021 alone. Conversely, there was a 40% increase in rat complaints filed overall in those two years as well. NYC rats managed to either double in population over the last two years, or cause the people of NYC to be more and more irritated by them.&lt;/p&gt;
+
+&lt;p&gt;Tyler DiMarco, a 19-year-old Manhattan native, “can’t go near a pile of garbage on the sidewalk without seeing a rat or two.” She shares a story about her experiences living in NYC and growing used to its sewer citizens. She claims no New Yorker can use the subways–or most public transportation–without crossing paths with a rat or rodent.&lt;/p&gt;
+
+&lt;p&gt;While the rats aren’t always friendly neighbors, she says, “if they don’t bother me, I’m not bothered. But sometimes they scurry around my feet, which I don’t really want to see,” summing it up to be a livable evil.&lt;/p&gt;
+
+&lt;p&gt;Katherine Harrison (22) feels a similar way. She lived three years in the Brooklyn borough and thinks it’s normal to see “about 12 rats” on average per week.&lt;/p&gt;
+
+&lt;p&gt;She agrees that dealing with rats and garbage is kind-of a “package deal” when visiting or living in a city, “it’s something you sign up for,” she says. Both when asked had interesting rat-related stories, each taking place near garbage or the subway.&lt;/p&gt;
+
+&lt;p&gt;Though Brooklyn has both the highest rates of refuse tonnage collected on average per year (over 800,000 tons in 2021) and highest number of rat complaints out of the five NYC boroughs, the population of Brooklyn is the largest compared to the other four. So, which borough does have the worst rat problems?&lt;/p&gt;
+
+&lt;iframe title=&quot;Rat Sightings Since 2015&quot; aria-label=&quot;Grouped Bars&quot; id=&quot;datawrapper-chart-PKjy9&quot; src=&quot;https://datawrapper.dwcdn.net/PKjy9/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;388&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;Well, according to NYC Pest Control Specialist William “Billy” Swan, it’s “the Bronx, for sure.” Mr. Swan, who previously worked with NYC Sanitation Department, explained that “rats are a real issue in New York City,” and their company can see up to 100 rodent-related exterminations per week.&lt;/p&gt;
+
+&lt;p&gt;Interestingly enough, he said most rat and rodent issues are caused in “high-density” areas, such as subways, large apartment buildings, and construction areas. Though there is a clear correlation between rats and “fresh food” (what humans eat–commonly found in garbage), the question of rats boil down to “one primary answer: humans are slobs,” says Mr. Swan sardonically. More hygienic living environments and lower waste rates would “knock the rodent population in half.”&lt;/p&gt;
+
+&lt;iframe title=&quot;Lower refuse tonnage collected, more rats sighted&quot; aria-label=&quot;Scatter Plot&quot; id=&quot;datawrapper-chart-Ic4U6&quot; src=&quot;https://datawrapper.dwcdn.net/Ic4U6/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;Though, it’s all easier said than done.&lt;/p&gt;
+
+&lt;p&gt;The Assistant Commissioner for Public Affairs for the NYC Department of Sanitation (DSNY), Joshua Goodman, estimates there are “about 23,000 DSNY corner waste baskets on intersections around the City.” Unfortunately, “they are placed in commercial or mixed-use zones, not fully residential areas,” which means there are less available public waste containers in &lt;em&gt;high density areas&lt;/em&gt;–more trash, more rats.&lt;/p&gt;
+
+&lt;p&gt;The DSNY is trying avidly to combat this issue by spreading the word on social media via their newly founded TikTok account. The NYC Sanitation TikTok account is run by Mr. Goodman’s office, and features well over 50,000 subscribers, making it a “verified” account. “We want to reach New Yorkers where they are,” says Goodman, “communicating their roles and responsibilities in keeping the city safe, healthy, and clean.”&lt;/p&gt;
+
+&lt;p&gt;Though they may come with every city, it’s time rats started paying rent if they’re going to camp out in America’s cities and sewers. Ignoring the issue is certainly one way of dealing with it; however, that’s only a temporary solution. What’s best for our health, and the health of future city livers, is reducing the rat pandemic by all means possible.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 May 2022 08:00:00 -0400</pubDate>
+        <link>http://comm-260.github.io/spring-2022/spring-2022/rats-nyc/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/spring-2022/spring-2022/rats-nyc/</guid>
+        
+        
+        <category>one</category>
+        
+      </item>
+    
+      <item>
+        <title>Jails and prisons no longer providing transparent Covid-19 data, despite new variant and recent surge</title>
+        <description>&lt;p&gt;The number of correctional facilities releasing data about Covid-19 cases among residents has been steadily decreasing in recent months, according to analysis of &lt;a href=&quot;https://uclacovidbehindbars.org&quot;&gt;UCLA Law Covid Behind Bars Project&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe title=&quot;Number of Correctional Facilities Releasing Covid-19 Case Data Over Time-&quot; aria-label=&quot;Interactive line chart&quot; id=&quot;datawrapper-chart-lk8ZH&quot; src=&quot;https://datawrapper.dwcdn.net/lk8ZH/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;Since March 2020, researchers at UCLA Law have collected Covid-19 data from over 1,800 correctional facilities across the U.S., tracking information like cases, deaths, testing and vaccination rates, for both incarcerated people and correctional staff.&lt;/p&gt;
+
+&lt;p&gt;Their job is often made difficult, however, when facilities are inconsistent in releasing this data. Last month, only 62% of facilities released data on Covid-19 cases among residents, which is the lowest level of reporting since May 2020. In September 2021, the percentage of facilities that reported Covid-19 case data stood at 69%, and the number has steadily decreased each month since then.&lt;/p&gt;
+
+&lt;p&gt;With &lt;a href=&quot;https://apnews.com/article/covid-science-health-houston-texas-e46d8b2ef2a68a41c629d2c8a0f4537b&quot;&gt;BA.2 becoming the dominant variant&lt;/a&gt; in the U.S., researchers worry that correctional facilities will not ensure data transparency despite an increase in cases.&lt;/p&gt;
+
+&lt;p&gt;“It’s quite concerning, I think, that for this surge, we’ll know less than ever,” said Joshua Manson, communications manager for the UCLA Law project. “For as little information as we had during the last Omicron surge, it’s very astounding that we’ll know less now.”&lt;/p&gt;
+
+&lt;p&gt;There are a variety of reasons correctional facilities might stop releasing Covid-19 Data, according to Manson. Less public pressure to do so, lack of resources and little to no transparency requirements all could have played a role in the recent decrease in reporting.&lt;/p&gt;
+
+&lt;p&gt;“They [prisons and jails] have had two years to figure this out. And Covid is obviously not going away, people are still getting sick. To me, now, there’s no excuseÉ” Manson said. “The amount of transparency and data reporting should only be increasing over time, not decreasing.”&lt;/p&gt;
+
+&lt;p&gt;Matthew Collinson, adjunct instructor in the Department of Justice, Law, and Criminology at American University, pointed to pressure from corrections unions.&lt;/p&gt;
+
+&lt;p&gt;“Police officers and correctional officers have some of the lowest vaccination rates, so I think there is some pressure from corrections unions and correctional staff not to report Covid-19 data because it reflects poorly on the fact that they are probably a significant vector of Covid at this point,” Collinson said.&lt;/p&gt;
+
+&lt;iframe title=&quot;Percentage of Correctional Facilities Releasing Covid-19 Case Data in March 2022, By State&quot; aria-label=&quot;Map&quot; id=&quot;datawrapper-chart-xJsJm&quot; src=&quot;https://datawrapper.dwcdn.net/xJsJm/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;506&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;The analysis revealed that reporting levels vary significantly depending on the location and jurisdiction of the facility. For example, last month, 98% of facilities in Illinois released case data, compared to 78% in Maine, 50% in Texas and 10% in Tennessee.&lt;/p&gt;
+
+&lt;p&gt;Some states have consistently produced a low percentage of facilities reporting, while others have had a somewhat sudden drop. For example, the percentage of Florida facilities reporting cases fell from 92% to 23% in January 2021, and has remained around 23% ever since. Similarly, Georgia facilities fell from 97% to 29% in August 2021.&lt;/p&gt;
+
+&lt;iframe title=&quot;Percentage of Correctional Facilities in Florida and Georgia Releasing Covid-19 Case Data Over Time&quot; aria-label=&quot;Interactive line chart&quot; id=&quot;datawrapper-chart-p2VX3&quot; src=&quot;https://datawrapper.dwcdn.net/p2VX3/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;This could be due to the realization that data reporting is what Manson called a “double-bind” for correctional facilities: while transparency is good, the public can hold the data against officials like politicians.&lt;/p&gt;
+
+&lt;p&gt;For correctional facilities, “it’s better to just stop reporting than to report the reality, which is bad,” said Manson.&lt;/p&gt;
+
+&lt;iframe title=&quot;6-Month Comparison of Percentage of Correctional Facilities Releasing Covid-19 Case Data, By Jurisdiction&quot; aria-label=&quot;Grouped Bars&quot; id=&quot;datawrapper-chart-Z0Th6&quot; src=&quot;https://datawrapper.dwcdn.net/Z0Th6/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;413&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;Not only is there variation across states, but also across the different jurisdictions of correctional facilities. The UCLA project examined facilities under federal, state, county and immigration control. Last month, just 14% of county-level facilities released Covid-19 case data, compared to 92% of immigration facilities.&lt;/p&gt;
+
+&lt;p&gt;County-level facilities held around 549,000 people as of late 2020, according to the Bureau of Justice Statistics. Despite this, the UCLA Law Covid Behind Bars team has seen much less data reporting from county jails.&lt;/p&gt;
+
+&lt;p&gt;“When we say that 600,000 people have had Covid behind bars, it’s excluding a huge number of people who are in [county] jails,” Manson said, in reference to the statistics on the UCLA project’s &lt;a href=&quot;https://uclacovidbehindbars.org&quot;&gt;homepage&lt;/a&gt; about cumulative cases.&lt;/p&gt;
+
+&lt;p&gt;Of the 65 county-level facilities who have released any Covid-19 case data since March 2020, the cumulative number of confirmed cases is around 42,000.&lt;/p&gt;
+
+&lt;p&gt;Lack of reporting from jails is concerning because since jails typically hold residents short-term, Covid-19 spread is more likely to impact the surrounding community, Collinson said.&lt;/p&gt;
+
+&lt;p&gt;“The other problem with jails is that they’re not set up to support people long term, so things like medical care tend to be of lower quality than places like prisons because folks don’t expect to stay there,” Collinson said. “ A lot of jail medical positions are not filled and even if they are, they have high turnover… So even for folks who are identified as having Covid-19 in jail, the treatment may not be great.”&lt;/p&gt;
+
+&lt;p&gt;Collinson also pointed out that jail populations are particularly vulnerable compared to those with longer sentences in prisons.&lt;/p&gt;
+
+&lt;p&gt;“A lot of folks are in jail because they can’t afford bail,” Collinson said. “So you pile on the risks of poverty with healthcare and how you’re more likely to have preexisting conditions, a potential substance abuse disorder or mental illnessÉ you create this perfect storm of ill health for folks.”&lt;/p&gt;
+
+&lt;iframe title=&quot;Number of Correctional Facilities Releasing Various Categories of Covid Data Reporting&quot; aria-label=&quot;Interactive line chart&quot; id=&quot;datawrapper-chart-3JUkH&quot; src=&quot;https://datawrapper.dwcdn.net/3JUkH/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;Not only has data on cases decreased, but also the other data that the UCLA Law Covid Project collects. Data on deaths, vaccinations and testing have also followed a negative trend in recent months.&lt;/p&gt;
+
+&lt;p&gt;Data transparency in correctional facilities hasn’t ever been the norm, according to Manson, and the decrease in Covid data reporting in recent months is essentially a return back to “normal.”&lt;/p&gt;
+
+&lt;p&gt;“This type of Covid reporting was, as small and as insufficient as it is in some places, actually a big deal in the prison transparency world,” Manson said. “This is not something that jails and prisons are used to doing. There’s not really a data collection and reporting infrastructure generally.”&lt;/p&gt;
+
+&lt;p&gt;However, a return to normal isn’t necessarily a good thing in this case. Data on Covid-19 in prisons matters to a variety of stakeholders.&lt;/p&gt;
+
+&lt;p&gt;Ellie Fitzgerald’s cousin was incarcerated at Metropolitan Correctional Center in Chicago for three months in early 2021. She expressed frustration with the lack of information that the federal prison system released about Covid-19 in this particular facility.&lt;/p&gt;
+
+&lt;p&gt;“This was a time before vaccines were rolled out, so it was extremely stressful going about day to day life knowing how hard the pandemic was impacting prisons, but being completely in the dark about cases, testing and deaths in his [Ellie’s cousin] jail,” Fitzgerald said. “My family and I were worried about him constantly, and it would have been comforting to at least know basic information about how bad the situation was there.”&lt;/p&gt;
+
+&lt;p&gt;The lack of data reporting affects not only family members of incarcerated people, but many other groups as well.&lt;/p&gt;
+
+&lt;p&gt;“The data matters for epidemiological and public health researchers. It also matters for politicians and lawmakers who are making decisions about how to populate jails and prisons,” Manson said. “It’s a problem for family members who have people incarcerated inside because you want to know how dangerous the jail or prison is where your loved one is being held right nowÉ It matters for judges, public defenders and lawyers, who file different types of emergency lawsuits to get clients out of jail and prison.”&lt;/p&gt;
+
+&lt;p&gt;Based on how prison communities have interacted with various epidemics and diseases in the past, Manson says that the decrease in data is discouraging.&lt;/p&gt;
+
+&lt;p&gt;“It’s a troubling trend because as we’ve seen with previous epidemics and previous illnesses, when spread is slowed down in the community, it doesn’t always hold in prisons,” Manson said. “Tuberculosis, HIV and Hepatitis are still prevalent in prisons and jailsÉ That’s likely to happen with Covid too. So, this decrease in transparency, to me, tells me that if the trend holds, in a year’s time, there won’t be any data reported on Covid even though Covid will probably still be there.”&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 May 2022 08:00:00 -0400</pubDate>
+        <link>http://comm-260.github.io/spring-2022/spring-2022/jails-covid/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/spring-2022/spring-2022/jails-covid/</guid>
+        
+        
+        <category>one</category>
+        
+      </item>
+    
+      <item>
+        <title>The Invisible Youths: Unaccompanied Homeless youth in DC</title>
+        <description>&lt;p&gt;The District of Columbia has been notoriously known for its high rates of homelessness, in the Tidal Basin, some can see the beautiful views of our nation’s capital, but also the number of homeless people and their camps set up under bridges and trees. In December 2021, &lt;a href=&quot;https://www.washingtonpost.com/dc-md-va/2022/02/24/dc-poll-housing-homeless-bowser/&quot;&gt;Mayor Muriel Bowser&lt;/a&gt; announced the removal of hundreds of encampments across the district, despite having low efforts of creating more affordable housing.&lt;/p&gt;
+
+&lt;p&gt;“The young black male at the mall sitting at the table looks as if he’s just a regular “youth” chillin’ at the mall, but is homeless,”  said Joe Savage, Regional Coordinator at the US interagency council on Homelessness “Same with the white female at the subway station with a backpack who looks like a student”&lt;/p&gt;
+
+&lt;iframe title=&quot;Unaccompanied homeless youth population since 2015&quot; aria-label=&quot;Interactive line chart&quot; id=&quot;datawrapper-chart-FeJGz&quot; src=&quot;https://datawrapper.dwcdn.net/FeJGz/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();&lt;/script&gt;
+
+&lt;p&gt;Within the National homeless population, a growing demographic at risk is unaccompanied youths ages 18-24. However in DC, there has been a decrease in homeless youth;  in 2020 DC reported there were 548 unaccompanied homeless youth. In this past year’s Point in Time count, an annual survey conducted by DC and many other states that counts the overall and sheltered homeless population, it was found that the number of unaccompanied youth has decreased to 502.  This has been the lowest number of unaccompanied youth reported in the last five years, but in 2016 it was reported that an alarming 902 youths ages 18-24 were homeless. However the Point In Time count has received &lt;a href=&quot;https://www.washingtonpost.com/dc-md-va/2022/02/24/dc-poll-housing-homeless-bowser/__;!!IaT_gp1N!3YwjToMSvZB1dnVVukd2gUaTicC7kP50_X_qGsU5QZw4hgnORR9QZEb28mUEBC7-xut4VNinBijkDHwv6VAGH4n3Ag$&quot;&gt;speculation&lt;/a&gt;  that it could be undercounting sub-populations and the number of those unsheltered, since the survey takes place during a 10 day period in January.&lt;/p&gt;
+
+&lt;p&gt;“While homeless youth come from varied backgrounds, one of the largest demographics is youth who identify as LGBTQ+” Said Savage “ Particularly, there is an overrepresentation of LGBTQ+ youth of color”&lt;/p&gt;
+
+&lt;iframe title=&quot;Unaccompanied Homeless Youth by demographic&quot; aria-label=&quot;Bar Chart&quot; id=&quot;datawrapper-chart-ngHm1&quot; src=&quot;https://datawrapper.dwcdn.net/ngHm1/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;328&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();&lt;/script&gt;
+
+&lt;p&gt;Currently of those 502 unaccompanied homeless youth, 277 of them are black youths between the ages of 18-25 and only 25 identify as transgender.&lt;/p&gt;
+
+&lt;p&gt;“Another large segment is runaway youth for whom there has been some type of family conflict or abuse” Said Savage “Finally, you have pregnant and parenting youth who after moving from place-to-place are unable to find a stable, safe, and permanent home.”&lt;/p&gt;
+
+&lt;p&gt;DC currently reports that there are 5,111 homeless people in the area, an estimated 86% of the homeless population is black; Despite only 46% of DC’s population is black&lt;/p&gt;
+
+&lt;p&gt;Based on the 2021 PIT count, the ward with the most homeless population is Ward 6; where many well known encampments reside such as Union station, Chinatown, and Capitol Hill. Just recently, &lt;a href=&quot;https://www.streetsensemedia.org/article/dc-encampment-tent-housing-federal/*.Yl71gfXMK3I&quot;&gt;the national park service&lt;/a&gt; closed down Capitol Hill Park due to the encampments being a “safety hazard”, leaving many encampment residents with nowhere to go.  Ward 6 is also home to one of DC’s new short term housing properties. The Aya, built in 2020 houses 50 families every night and was part of Mayor Bowser’s HomewardDC plan.&lt;/p&gt;
+
+&lt;iframe title=&quot;Number of Homeless population (all ages) by ward &quot; aria-label=&quot;Map&quot; id=&quot;datawrapper-chart-VJZuP&quot; src=&quot;https://datawrapper.dwcdn.net/VJZuP/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;754&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();&lt;/script&gt;
+
+&lt;p&gt;Although Ward 6 had the highest overall homeless population, Ward 2 had the highest unsheltered homeless population at 296. &lt;a href=&quot;https://www.streetsensemedia.org/article/dc-evicts-30-homeless-residents-park-new-jersey-o-nw-surrounds-fences/*.Yl74hfXMK3I&quot;&gt;Last December&lt;/a&gt;, a number of encampment residents in a park located on the corner of New Jersey Ave. and O street, were evicted and displaced from their homes.&lt;/p&gt;
+
+&lt;p&gt;“One of the key strategies is actually involving youth with lived expertise of homelessness in the policy and decision-making processes” said Savage “By doing this, communities are using their expertise to assist with identifying homeless youth and developing effective interventions for addressing youth homelessness”&lt;/p&gt;
+
+&lt;p&gt;To combat this unseen problem within homelessness in DC, many organizations have taken upon themselves to implement ways to provide support for unaccompanied youth. One of these organizations is the Covenant House Greater Washington, founded in 1995. The CHGW provides housing, workforce development, job/career placement, and mental health services.&lt;/p&gt;
+
+&lt;p&gt;Another organization combating this issue is the &lt;a href=&quot;https://www.sashabruce.org/&quot;&gt;Sasha Bruce Youthwork&lt;/a&gt;, a streetwork project created in 1976 by Deborah Shore. Today, the Sasha Bruce Youthwork is DC’s largest provider for homeless youth, SBY provides children and young adults with housing, life skills, career training, and education.&lt;/p&gt;
+
+&lt;p&gt;At American University, Many students have provided their support in helping those in need through Heal Da Homies. &lt;a href=&quot;https://healdahomies.org/&quot;&gt;Heal Da Homies&lt;/a&gt; was founded by students during the height of the pandemic, and now provides mutual aid to marginalized communities by organizing flea markets, and food drives.&lt;/p&gt;
+
+&lt;p&gt;On April 21, Mayor Bowser, joined by the DC Department of Human services and DC Interagency Council on Homelessness, held a &lt;a href=&quot;https://dhs.dc.gov/release/mayor-bowser-announce-2022-point-time-count-results-and-highlight-fy23-budget-investments&quot;&gt;conference&lt;/a&gt; to discuss the results of the &lt;a href=&quot;https://community-partnership.org/homelessness-in-dc/*pit-dashboard&quot;&gt;2022 Point In Time count&lt;/a&gt; and highlights of the FY23 Budget investments. Part of these investments included $31 million to Homeward DC, a strategic plan created by the mayor in 2016 to combat homelessness and make it non recurring. And more than $114 million towards replacing shelters, with smaller and more service enriched family housing.&lt;/p&gt;
+
+&lt;p&gt;“While we are proud of these results, we know there’s more work to do. We know that the pandemic has changed the way people experience homelessness, including more people living in encampments, and we need to be responsive to those changes.” Said Mayor Bowser at the press conference “With the FY23 budget, we have the funding in place to end chronic homelessness, and in addition to the funding, we have the political will and the community support to make it happen. And we will.”&lt;/p&gt;
+
+&lt;p&gt;Mayor Bowser shared that the 2022 PIT count showed that the number of homeless individuals in DC currently is 4,410. Which is  47% lower than the PIT count of 2016, the same year Homeward DC was created; And 13.7% lower than last year’s PIT count.&lt;/p&gt;
+
+&lt;p&gt;“Mayor Bowser’s proposed FY23 budget continues to invest in solutions to the crisis of homelessness,” said DHS Director Laura Green Zeilinger. “While I am proud of the work we do to connect District residents to affordable housing, I am especially proud of the system by which we welcome people home – it’s a system consistent with our District values in that it is centered in human dignity. Our residents are deserving of a safe and stable place to call home and we are dedicated to making that vision a reality.”&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;img src=https://www.washingtonpost.com/wp-apps/imrs.php?src=https:&lt;em&gt;*Aarc-anglerfish-washpost-prod-washpost.s3.amazonaws.com&lt;/em&gt;public*I72A3CCJUZDAFLPHHEDZQE4MHA.jpg&amp;amp;w=916__;Ly8vLw!!IaT_gp1N!3YwjToMSvZB1dnVVukd2gUaTicC7kP50_X_qGsU5QZw4hgnORR9QZEb28mUEBC7-xut4VNinBijkDHwv6VDJC4-anQ$ &amp;gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 May 2022 08:00:00 -0400</pubDate>
+        <link>http://comm-260.github.io/spring-2022/spring-2022/homeless-youth/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/spring-2022/spring-2022/homeless-youth/</guid>
+        
+        
+        <category>Homelessness</category>
+        
+      </item>
+    
+      <item>
+        <title>Grocery Store Structures Promote Food Waste</title>
+        <description>&lt;p&gt;Rebekah Vensel’s diet has changed significantly since moving out of her family home in south-central Pennsylvania into an apartment in Washington, D.C. The 24-year-old philanthropy manager now rarely purchases meat and fruit, and she has completely scratched bread from her shopping list.&lt;/p&gt;
+
+&lt;p&gt;“I just know I can’t go through it,” said Vensel, referring to her struggle to consume these products by herself before they begin to rot.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-problem-with-food-packaging&quot;&gt;The Problem with Food Packaging&lt;/h2&gt;
+
+&lt;p&gt;In three of the district’s most popular grocery stores by market share, Giant, Safeway and Walmart, many fresh produce and meat items come in containers too large to be reasonably consumed by one person before the food diminishes in quality, according to data from the U.S. Department of Agriculture and the Food Marketing Institute.&lt;/p&gt;
+
+&lt;p&gt;Beyond the matter of consuming food within its shelf life, smaller packages are priced higher than items packaged in bulk, creating an added financial burden for shoppers with only one mouth to feed.&lt;/p&gt;
+
+&lt;p&gt;Although some produce, such as apples, bananas and peppers can be purchased by their smallest natural unit, other items, such as berries, are packaged in a minimum quantity greater than the size of Mother Nature’s single unit. Rarely can a shopper choose to buy the exact number of strawberries that will fit their needs. Similarly, while a shopper might be able to purchase a single filet of fish from the seafood counter, they are less likely to find a counter that sells individual chicken breasts.&lt;/p&gt;
+
+&lt;p&gt;One-person households face the consequences of this structure, where the shelf life of food items is shorter than the average time it takes a single person to consume the smallest quantity offered by their grocery store.&lt;/p&gt;
+
+&lt;p&gt;According to &lt;a href=&quot;https://censusreporter.org/profiles/16000US1150000-washington-dc/#households&quot;&gt;census data&lt;/a&gt;, nearly half of Washington, D.C.’s nonfamily households are made up of people living alone. These households, along with college students that reside in the district for most of the year, mean that people cooking for one constitute a significant portion of the region’s population.&lt;/p&gt;
+
+&lt;h2 id=&quot;consequences-of-too-much-food&quot;&gt;Consequences of Too Much Food&lt;/h2&gt;
+
+&lt;p&gt;Looking at fruits, vegetables and meat products typically sold in pre-packaged quantities, several items stand out as being more difficult to consume in full within the product’s shelf life without freezing them. Data reveals that this is especially true for meat products and certain fruits.&lt;/p&gt;
+
+&lt;iframe title=&quot;Shelf Life and Consumption Time&quot; aria-label=&quot;Range Plot&quot; id=&quot;datawrapper-chart-P8YcQ&quot; src=&quot;https://datawrapper.dwcdn.net/P8YcQ/6/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;887&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;This barrier comes at a cost. Consumers who struggle to get through fresh foods quickly enough sacrifice diversity on their plates.&lt;/p&gt;
+
+&lt;p&gt;When she buys fresh vegetables, Vensel often chooses one type to sustain her between trips to the grocery store. While she can usually manage to consume one vegetable during its shelf life, purchasing and cooking a variety of produce throughout the week often leads to waste.&lt;/p&gt;
+
+&lt;p&gt;According to Allison Tepper, a registered dietitian in the Washington, D.C. region, diversifying the fruits and vegetables on the dinner plate is important. “Each color offers different nutrients,” she said. In extreme cases, “people find that if they eat the same thing over and over for years and years, they can become intolerant to it or start to get reactions to certain foods.”&lt;/p&gt;
+
+&lt;p&gt;In addition to putting one-person households at a nutritional disadvantage, the current structure of food packaging contributes to the global issue of food waste. Any food that is not consumed before it begins to rot must either be composted or thrown away.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://flo.uri.sh/visualisation/9466250/embed&quot; title=&quot;Interactive or visual content&quot; class=&quot;flourish-embed-iframe&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;width:100%;height:600px;&quot; sandbox=&quot;allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;width:100%!;margin-top:4px!important;text-align:right!important;&quot;&gt;&lt;a class=&quot;flourish-credit&quot; href=&quot;https://public.flourish.studio/visualisation/9466250/?utm_source=embed&amp;amp;utm_campaign=visualisation/9466250&quot; target=&quot;_top&quot; style=&quot;text-decoration:none!important&quot;&gt;&lt;img alt=&quot;Made with Flourish&quot; src=&quot;https://public.flourish.studio/resources/made_with_flourish.svg&quot; style=&quot;width:105px!important;height:16px!important;border:none!important;margin:0!important;&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Even before reaching the refrigerators of consumers, growing food requires large plots of land and resources, according to Cassie Rodrigue, a climate activist and executive board member of American University’s Zero Waste club.&lt;/p&gt;
+
+&lt;p&gt;Rodrigue, a second-year undergraduate student studying political science and sustainability, says that about one-third of food grown worldwide is wasted. She warns that although many foods can be composted, individuals must properly sort their food waste for it to undergo the process. If food waste is thrown into regular trash cans, it goes straight to the landfill. Every addition to the landfill contributes to the release of more methane, which Rodrigue says is “even more potent than carbon dioxide emissions.”&lt;/p&gt;
+
+&lt;h2 id=&quot;financial-inequity&quot;&gt;Financial Inequity&lt;/h2&gt;
+
+&lt;p&gt;The way traditional grocery stores package fresh produce and meat strains not only the environment, but also the wallets of shoppers who purchase the smallest available package. The price per ounce of smaller packages is almost always more than that of larger containers. On average, the smallest package is 31% more expensive than the largest package. In other words, one-person households are paying more for their groceries.&lt;/p&gt;
+
+&lt;iframe title=&quot;Price per Ounce Differences&quot; aria-label=&quot;Range Plot&quot; id=&quot;datawrapper-chart-KFEGT&quot; src=&quot;https://datawrapper.dwcdn.net/KFEGT/4/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;734&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;When she is craving something that she no longer buys from grocery stores, Vensel will opt for individually packaged items on occasion. But even when it is available, Vensel recognizes that single packaging is not always a good compromise.&lt;/p&gt;
+
+&lt;p&gt;“Sometimes I feel that it’s worse than the big packaging. It’s more money, and it’s not as good for the environment,” she said, noting that increased plastic waste results from individually wrapped items.&lt;/p&gt;
+
+&lt;p&gt;Rodrigue agrees. “Single packaging kind of drives me crazy,” she said. “That’s why I love farmer’s markets. You can bring your own bags.”&lt;/p&gt;
+
+&lt;h2 id=&quot;new-systems&quot;&gt;New Systems&lt;/h2&gt;
+
+&lt;p&gt;Solutions to the food waste and financial inequity that result from grocery store trips as a single shopper are complex. Rodrigue says the first step is rooted in an old childhood rhyme.&lt;/p&gt;
+
+&lt;p&gt;“We all know the three Rs: Reduce, Reuse, Recycle,” she said. “But the fourth R is Refuse. Refuse things you don’t need to be consuming in the first place.”&lt;/p&gt;
+
+&lt;p&gt;Can this be achieved through a self-serve structure in grocery stores that more closely resembles farmer’s markets? Vensel recalled attending markets where consumers bring their own container, fill it from a large bin of rice and pay by its weight. This same system could potentially be incorporated into traditional grocery stores for smaller produce items like berries.&lt;/p&gt;
+
+&lt;p&gt;However, Vensel warns that the solution is much more complicated than building self-serve produce stands. “Stuff like [berries] are not always in season,” she said. “So, it has to be packaged in a certain way to get from one place to another.”&lt;/p&gt;
+
+&lt;p&gt;Changing the structure of how foods are packaged in grocery stores requires thinking on a larger scale, including reexamining the process that gets the food onto local shelves in the first place.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 May 2022 08:00:00 -0400</pubDate>
+        <link>http://comm-260.github.io/spring-2022/spring-2022/grocery-store-food/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/spring-2022/spring-2022/grocery-store-food/</guid>
+        
+        
+        <category>one</category>
+        
+      </item>
+    
+      <item>
+        <title>A Closer Look at the Prosecutions of Disabled Filicides</title>
+        <description>&lt;iframe title=&quot;Suspect-Victim Relationships&quot; aria-label=&quot;Bar Chart&quot; id=&quot;datawrapper-chart-V0GXn&quot; src=&quot;https://datawrapper.dwcdn.net/V0GXn/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;308&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();&lt;/script&gt;
+
+&lt;p&gt;Kayla Kunkel, a 23-year-old woman with autism, was found not breathing on June 29, 2019 in Chenango, New York. She could not be revived and ultimately passed away. Her death was attributed to a bowel obstruction that never received medical attention.&lt;/p&gt;
+
+&lt;p&gt;Her parents, Renee and Edward Kunkel, were indicted on felony counts of second-degree manslaughter, first-degree endangering the welfare of an incompetent or physically disabled person and on two misdemeanor counts of endangering the welfare of a child.&lt;/p&gt;
+
+&lt;p&gt;Renee &lt;a href=&quot;https://www.pressconnects.com/story/news/public-safety/2021/05/27/broome-woman-autism-negligent-homicide/7421175002/&quot;&gt;​​pleaded guilty&lt;/a&gt; to negligent homicide and was sentenced to five years of probation.&lt;/p&gt;
+
+&lt;p&gt;In the U.S., the perpetrators of filicides against disabled victims tend to receive less severe punishments, with only 24 percent of cases from 2019-2021 resulting in a sentence or conviction, and with those who do get convicted tending to receive shorter sentences for their crimes.&lt;/p&gt;
+
+&lt;iframe title=&quot;2019-2021 Case Statuses&quot; aria-label=&quot;Bar Chart&quot; id=&quot;datawrapper-chart-usarg&quot; src=&quot;https://datawrapper.dwcdn.net/usarg/3/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;214&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();&lt;/script&gt;
+
+&lt;p&gt;“We see the same pattern repeating over and over again,” said the Autistic Self Advocacy Network (ASAN) in their &lt;a href=&quot;https://autisticadvocacy.org/projects/community/mourning/anti-filicide/&quot;&gt;2022 Anti-Filicide Toolkit&lt;/a&gt;. “A parent kills their disabled child. The media portrays these murders as justifiable and inevitable due to the ‘burden’ of having a disabled person in the family. If the parent stands trial, they are given sympathy and comparatively lighter sentences, if they are sentenced at all. The victims are disregarded, blamed for their own murder at the hands of the person they should have been able to trust the most, and ultimately forgotten. And then the cycle repeats.”&lt;/p&gt;
+
+&lt;h2 id=&quot;filicide-at-a-glance&quot;&gt;&lt;strong&gt;Filicide at a Glance&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Filicide is largely used as a term to mean when a parent murders their child. However, within the disability community, the word takes on a less exclusive meaning and is used to describe when any relative, household member or caregiver kills their disabled relative, whether through a direct act of violence or through neglect.&lt;/p&gt;
+
+&lt;p&gt;An analysis of ASAN &lt;a href=&quot;https://disability-memorial.org/index-by-year&quot;&gt;index&lt;/a&gt; entries from 2019-2021 showed that filicides against disabled individuals occurred most frequently in Florida, with a total of 15 cases taking place there during that time window. This was followed closely by Texas with 13 cases, and New York with 12.&lt;/p&gt;
+
+&lt;iframe title=&quot;Disabled Victims Per State 2019-2021 &quot; aria-label=&quot;Map&quot; id=&quot;datawrapper-chart-FV3BJ&quot; src=&quot;https://datawrapper.dwcdn.net/FV3BJ/2/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;482&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();&lt;/script&gt;
+
+&lt;p&gt;The most common age group among the victims were children and teens, which together made up 36 percent of victims from 2019-2021. Elders, the term used to classify adults over 60 in the index, made up 34 percent of victims, and those remaining were adults under 60.&lt;/p&gt;
+
+&lt;p&gt;The most common suspect-victim relationship was a parent or guardian, accounting for 40 percent of the cases.&lt;/p&gt;
+
+&lt;p&gt;Thirty-eight percent of cases fell under the category of homicide, followed by fatal neglect, which made up 25 percent of cases. The most common cause of death was a gunshot.&lt;/p&gt;
+
+&lt;p&gt;While the types of disabilities victims had varied widely, the most common was autism, followed by dementia.&lt;/p&gt;
+
+&lt;p&gt;The U.S. does not specifically track demographic information such as the disability statuses of victims in their crime data, but other non-government organizations do. ASAN created and updates their index by pulling information about crimes that occur and are reported by news outlets. Information such as the name of the victim, their age, disabilities, cause of death, location of death, the case status and other details about the case are compiled into a profile. From 2019 to 2021, ASAN logged 182 cases of filicide where a victim was disabled.&lt;/p&gt;
+
+&lt;p&gt;The index also acts as a memorial website, and entries often include pictures of the victim and occasionally some details about their life and personality.&lt;/p&gt;
+
+&lt;p&gt;However, because entries within the index are so dependent on the media covering cases in the first place, it is possible that cases are going underreported.&lt;/p&gt;
+
+&lt;p&gt;“Sometimes nondisabled parents of disabled people are seen as these heroes for essentially accommodating the bare minimum for disabled children,” said Julia Metraux, a freelance health reporter. “So if the disabled person dies, and they’re like, Oh, well, this poor hero lost their kid, they’re not really looking to it.”&lt;/p&gt;
+
+&lt;p&gt;Lack of representation in news coverage has also led to a dearth of knowledge among the general public about the prevalence of filicide against members of the disabled community.&lt;/p&gt;
+
+&lt;p&gt;“The general public has no idea how common it is,” said Autistic writer and editor Maxfield Sparrow. “Whenever I tell people that just in my Google notifications, I learned about an average of one filicide [of] an Autistic child or adult per month, at first they are disbelieving because they think well, if it were that common, wouldn’t I have heard of it? But unless there’s a big court trial, it ends up being a little article on a back page.”&lt;/p&gt;
+
+&lt;h2 id=&quot;differences-in-punishment&quot;&gt;&lt;strong&gt;Differences in Punishment&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Disability activists and other members of the disability community have preached for years that the way the filicides of disabled people are prosecuted lead to inequitable punishments for their perpetrators, with some not receiving punishment at all.&lt;/p&gt;
+
+&lt;p&gt;“Often justice isn’t being served in the courtroom,” Sparrow said. “When I go and look at cases that I’ve followed for years and see the outcomes, it’s almost universally infuriating and disappointing to see how light the sentences are.”&lt;/p&gt;
+
+&lt;p&gt;While cases of filicide against disabled individuals have low sentence and conviction rates across the board, the severity of the sentences when they are handed down tend to vary by state, according to data from the U.S. Sentencing Commission.&lt;/p&gt;
+
+&lt;p&gt;In 2019, out of the filicides that resulted in a sentence in Arizona, the &lt;a href=&quot;https://www.ussc.gov/sites/default/files/pdf/research-and-publications/federal-sentencing-statistics/state-district-circuit/2019/az19.pdf&quot;&gt;average sentence&lt;/a&gt; length for cases that fell under the category of “murder” was 228 months. That same year, the average murder sentence in Arizona was 268 months and 255 months in the U.S. overall.&lt;/p&gt;
+
+&lt;p&gt;In 2020, the average sentence for murder in Minnesota was 266 months and 255 months nationally. For filicides with a disabled victim for that year, the average sentence in Minnesota was 128 months.&lt;/p&gt;
+
+&lt;p&gt;Maryland, Missouri, North Carolina and Pennsylvania all followed similar trends.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://flo.uri.sh/visualisation/9661426/embed&quot; title=&quot;Interactive or visual content&quot; class=&quot;flourish-embed-iframe&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;width:100%;height:600px;&quot; sandbox=&quot;allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;width:100%!;margin-top:4px!important;text-align:right!important;&quot;&gt;&lt;a class=&quot;flourish-credit&quot; href=&quot;https://public.flourish.studio/visualisation/9661426/?utm_source=embed&amp;amp;utm_campaign=visualisation/9661426&quot; target=&quot;_top&quot; style=&quot;text-decoration:none!important&quot;&gt;&lt;img alt=&quot;Made with Flourish&quot; src=&quot;https://public.flourish.studio/resources/made_with_flourish.svg&quot; style=&quot;width:105px!important;height:16px!important;border:none!important;margin:0!important;&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;However, when it came to 2019 filicides that were classified as “manslaughter” in Arizona, &lt;a href=&quot;https://www.ussc.gov/sites/default/files/pdf/research-and-publications/federal-sentencing-statistics/state-district-circuit/2019/az19.pdf&quot;&gt;sentences were longer&lt;/a&gt; than the national and state averages, which was a common trend among other states with manslaughter sentences for filicides with a disabled victim.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-cycle-continues&quot;&gt;&lt;strong&gt;The Cycle Continues&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;It has been theorized that the reason why filicides involving a disabled victim are prosecuted less frequently and less harshly than other murder cases is because of a narrative that centers the perpetrator as the burnt out caregiver who was overwhelmed by the disabled victim.&lt;/p&gt;
+
+&lt;p&gt;“I think the media does have a role in [punishment] because the more that it’s presented as an understandable tragedy for the parent, not for the murdered person, the more a court is going to think about their assumptions about what all parents must feel, and just a normalization of the killing,” Sparrow said.&lt;/p&gt;
+
+&lt;p&gt;When it comes to the murders of disabled older adults by their caregivers or spouses, specifically older adults with dementia, one of the pervasive narratives found in media portrayals of cases is that the victim’s life was not worth living, and as a result the perpetrator gets shown in a more positive light.&lt;/p&gt;
+
+&lt;p&gt;“You sometimes see with aging couples is that people jump to the conclusion that the person with dementia, their life wasn’t worth living, essentially, and that [the caregiver] probably did a good thing, which I think is horrible,” said Metraux. “I think multiple things can be true at once. Caregivers can be burned out, but murder is not an excuse for burnout.”&lt;/p&gt;
+
+&lt;p&gt;When disabled children become victims of filicide, a common media narrative is that they were too stressful for their parent or caregiver to handle, therefore justifying their murder.&lt;/p&gt;
+
+&lt;p&gt;“There is a societal attitude about what it means to have a disabled child, and a lot of people view disabled children as disappointing burdens,” Sparrow said. “When there is a news story that’s online, and you go into the comment section, you will see lots and lots of people, including parents, defending the parent who has killed their child on the grounds that you can’t possibly understand how hard it is to be a parent of a disabled child if you haven’t done it, so don’t pass judgment on this person. As if somehow the the difficulty that disabled children represent justifies murder in some way.”&lt;/p&gt;
+
+&lt;p&gt;Dismantling the narratives around filicide is thought to be a step toward more equitable treatment of cases from the general public and the justice system. Some have emphasized the point of ensuring that stories center the disabled person, not the nondisabled caregiver.&lt;/p&gt;
+
+&lt;p&gt;“We see journalists talking to largely nondisabled parents about their disabled kid or a disabled family member, and not actually including the voices of disabled people themselves,” Metraux said.&lt;/p&gt;
+
+&lt;p&gt;“We need to talk more about who they were like,” Sparrow said. “Who are these people that we’re losing? What did they love? Who did they love? And how did they live? Because the more that people can see that these aren’t just a whole bunch of disabled people murdered in gruesome ways, but genuine human beings with likes and dislikes and dreams, aims and hopes, the more people are going to care that we’re getting killed.”&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 May 2022 08:00:00 -0400</pubDate>
+        <link>http://comm-260.github.io/spring-2022/spring-2022/filicides/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/spring-2022/spring-2022/filicides/</guid>
+        
+        
+        <category>one</category>
+        
+      </item>
+    
+      <item>
+        <title>The Shadow Pandemic: why cases of domestic violence are increasing in Washington DC but are reported less during the COVID-19 Pandemic</title>
+        <description>&lt;p&gt;Incidents of domestic violence have increased globally during COVID-19.&lt;/p&gt;
+
+&lt;iframe title=&quot;Domestic Violence Reported by DC Safe vs. Police 2021&quot; aria-label=&quot;Bar Chart&quot; id=&quot;datawrapper-chart-Jq2jm&quot; src=&quot;https://datawrapper.dwcdn.net/Jq2jm/2/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;border: none;&quot; width=&quot;600&quot; height=&quot;349&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;“I was threatened so many times by my abuser. One time I can clearly remember like it was five minutes ago was when he almost killed me [by strangulation] because I wouldn’t have sex with him. I have had my windows busted out of my home and my car. I was almost killed three times by my abuser who, by the way, is the father of my two kids (eight and 19 years old). I have been spit on, strangled [until] blood clots came [out] my eyes, and the mental abuse was horrific,” said Delita S, a survivor of domestic violence during the Shadow Pandemic in Washington, DC.&lt;/p&gt;
+
+&lt;p&gt;The Shadow Pandemic is the term coined for the rapid increase in domestic violence cases during the COVID-19 pandemic. Incidents of domestic violence have increased globally during COVID-19, according to the American Journal of Emergency Medicine. House of Ruth (a domestic violence shelter in DC) president Sandra Jackson states that the consequences imposed by COVID-19, such as the stay-at-home mandate, only increased exhibiting tensions between couples living together.&lt;/p&gt;
+
+&lt;p&gt;“Covid has affected relationships because you get locked in place too long, and while the abuse gets worse, you can’t get out,” said Delita S.&lt;/p&gt;
+
+&lt;p&gt;Delita escaped her abuser and received help through Domestic Violence Wears Many Tags (DVWMT), also known as “The School for Domestic Violence.” DVWMT is an educational organization in Washington D.C. established in 2008.&lt;/p&gt;
+
+&lt;p&gt;Afi Gaston, the organization’s founder, had a 19-year-old daughter, Anaiona Gaston, who was a victim of domestic violence. Anaiona was shot in the head by her boyfriend in 2016 while holding their two-month-old infant in her arms. Today, her mother sets out to help survivors escape their abusers, as well as educate men and women on effective solutions to domestic violence.&lt;/p&gt;
+
+&lt;p&gt;“The resources and support are not consistent. Domestic violence is a very delicate issue and programs, support, and resources are expected to be in place. When that doesn’t happen, victims get discouraged to report,” said Gaston.&lt;/p&gt;
+
+&lt;p&gt;Nineteen nonprofit organizations in Washington D.C. lend aid to domestic violence survivors through housing programs and other social services. DC Safe is the only 24/7 domestic violence crisis center in Washington. Since the start of the pandemic in March 2020, DC Safe’s client base has increased by 57%. According to their website, “71% out of 4,115 clients screened through our Lethality Assessment Program in 2021 were assessed as high-risk for re-assault or homicide.”&lt;/p&gt;
+
+&lt;p&gt;Additionally, DC Safe reports that injuries in these cases appear to have gotten more severe, and there have been 11 domestic violence homicides in 2021 thus far.&lt;/p&gt;
+
+&lt;iframe title=&quot;DC Safe Crisis Response Line&quot; aria-label=&quot;Interactive line chart&quot; id=&quot;datawrapper-chart-GIgWh&quot; src=&quot;https://datawrapper.dwcdn.net/GIgWh/4/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;border: none;&quot; width=&quot;600&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;According to DC Safe, 79,652 calls were made to their crisis response line from March 1, 2020 to February 28, 2022. This is a vast uptick compared to the 12,196 clients referred in 2017 and 12,958 calls made in 2019.&lt;/p&gt;
+
+&lt;p&gt;Toshira Monroe, Deputy Director of My Sister’s Place DC, said that not only has COVID-19 making abusers more tense, but it’s also taken away options from survivors.&lt;/p&gt;
+
+&lt;p&gt;“There are a lot of financial constraints,” said Monroe. “Removing someone from your life who is contributing in a bad way may also be contributing something helpful. Survivors may not cooperate with prosecution or want to be witnesses. Sometimes they have no choice and are compelled by court, but sometimes they won’t pick up the phone when we call.”&lt;/p&gt;
+
+&lt;p&gt;However, both shelters for victims of intimate partner violence and police forces experienced a significant decrease in call volume at the start of 2020, resulting in a massive misrepresentation of statistics. According to City of Alexandria Domestic Violence &amp;amp; Sexual Assault Division Chief Debra Evans, the city saw a decline in requests for services in the beginning of the pandemic. She also stated that incidents of abuse seem to be more severe.&lt;/p&gt;
+
+&lt;p&gt;According to Monroe, the number of reported domestic violence cases against children also declined. But that does not tell the whole story.&lt;/p&gt;
+
+&lt;p&gt;“Children’s reports decreased dramatically because they are not at school, where teachers and other faculty are usually the ones to report it,” said Monroe. “Violence in the home is just not reported as much.”&lt;/p&gt;
+
+&lt;iframe title=&quot;Violent Crimes in DC 2021&quot; aria-label=&quot;Map&quot; id=&quot;datawrapper-chart-jBfCy&quot; src=&quot;https://datawrapper.dwcdn.net/jBfCy/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;border: none;&quot; width=&quot;600&quot; height=&quot;775&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The Metropolitan Police Department stated that all violent crimes in the past two years have increased by 148 cases as of April 11, 2022. The MPD does not include statistics from the Uniform Crime Reporting Program and IncidentÐBased Reporting System governed by the FBI, and therefore does not guarantee the most accurate statistics.&lt;/p&gt;
+
+&lt;p&gt;“We saw an increase in clients looking for transitional housing instead of shelter, but otherwise, our numbers have stayed pretty steady and are similar to our report in 2021,” said Monroe. “The majority of clients need long-term support but because of COVID, not a congregate setting such as a shelter. Most see that shelter is fine because they have their own rooms, and the city puts a lot of funding out to help clients get to housing. But, there is a shortage of affordable housing in D.C.”&lt;/p&gt;
+
+&lt;p&gt;My Sister’s Place DC is a domestic violence hotline and shelter in Washington, DC. In 2021, My Sister’s Place provided 1247 case management and counseling sessions, provided 110 survivors with safe housing, and served 160 adult and 285 child survivors. Like other shelters in Washington, including House of Ruth, the number of survivors seeking help increased, but only minimally.&lt;/p&gt;
+
+&lt;p&gt;A report from the National Commission on Covid and Criminal Justice (NCCCJ) attempted to estimate the number of domestic violence victims during the pandemic by pulling their evidence from police calls, emergency hotline registries, and health records across 18 studies globally and 12 in the United States. Across the United States, domestic violence is proven to have increased by 9.7% in March and April of 2020 Ð an estimated 1,330 more domestic violence calls for service per day across the U.S. during that time period Ð and overall 8.1% after stay-at-home orders were in place.&lt;/p&gt;
+
+&lt;p&gt;Different shelters and police departments have differing statistics for domestic violence cases during the pandemic. There are several factors for why the data cannot be closely tracked. Organizations like the NCCCJ attempted to collect data from police, health, and other administrative records, but according to a comprehensive study from February 2021, it is impossible to totally measure domestic violence during or after the pandemic.&lt;/p&gt;
+
+&lt;p&gt;According to Monroe, jail time does not always make survivors feel protected from their abusers.&lt;/p&gt;
+
+&lt;p&gt;“Some clients have had abusers released after four years in prison come and start a fire or try to hurt them,” said Monroe. “The deterrent for abuse is that when police come, they may feel like the danger is finished but find out that it’s not.”&lt;/p&gt;
+
+&lt;p&gt;Additionally, the historical relationship between police and domestic violence victims and people of color is heavily strained, and Monroe states that we will never know exactly how many calls are not made out of fear of how the police will respond.&lt;/p&gt;
+
+&lt;p&gt;Delita detailed how she felt let down by the criminal justice system during her recent escape from domestic violence.&lt;/p&gt;
+
+&lt;p&gt;“During the pandemic, I was being stalked and being threatened to be killed by my abuser,” said Delita. “I was afraid and felt failed by the judicial system, my kids and I. Because every time he was locked up for trying to find me and kill me, the judicial system let him right back out. Many, many times, while he was locked up, was during Covid. I was very scared. My kids and I and the rest of my family had to relocate to a whole new residence because of my abuser.”&lt;/p&gt;
+
+&lt;p&gt;Monroe stated that the lack of trust some survivors have in police is a matter of weighing the pros and cons of turning in their abusers.&lt;/p&gt;
+
+&lt;p&gt;“The majority of clients we serve are people of color, and there’s not a lot of trust in law enforcement,” said Monroe. “Immigrant populations have police from their home countries who are not on the up and up, and they don’t know what our police systems will do. You stick with the devil you know. You know your abuser but not what police will do. Will they get deported? What about sponsorship? Will they be separated from their US born children? They’re just not familiar with how US systems work.”&lt;/p&gt;
+
+&lt;p&gt;Gaston, who works closely with survivors of domestic violence in group classes and seminars, stated that many of her clients feel unfaithful about law enforcement.&lt;/p&gt;
+
+&lt;p&gt;“Fear or no trust of the criminal justice system could be one reason why victims do not report. Victims mention to me personally, Ôthe restraining order is just a piece of paper.’ Which is true, it doesn’t stop an abuser from tracking or stalking their victim,” said Gaston.&lt;/p&gt;
+
+&lt;p&gt;Monroe stated that My Sister’s Place places its trust in its clients above all else, and does not try to help them in ways the clients are uncomfortable with.&lt;/p&gt;
+
+&lt;p&gt;“The other piece is the level of violence Black and brown communities have experienced by police,” said Monroe. “Some of these families make money the best way that they can, and don’t want to get in trouble or have their children removed. Sometimes calling the police makes it worse for the victim or survivor, because there are abusers who couldn’t care less about police. We trust that the survivor knows best and we listen. We don’t always encourage law enforcement if the client says that it won’t help.”&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 May 2022 08:00:00 -0400</pubDate>
+        <link>http://comm-260.github.io/spring-2022/spring-2022/domestic-violence/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/spring-2022/spring-2022/domestic-violence/</guid>
+        
+        
+        <category>final</category>
+        
+      </item>
+    
+      <item>
+        <title>Everything is in shambles: In DC, a mental health crisis unfolds among district youth</title>
+        <description>&lt;p&gt;A recent study ranked DC among the best in the country for youth mental health, but community activists paint a bleaker picture.&lt;/p&gt;
+
+&lt;p&gt;A &lt;a href=&quot;https://hopefulfutures.us/action&quot;&gt;recent study&lt;/a&gt; by the Hopeful Futures Campaign ranked D.C. third in the nation for tackling youth mental health issues. But as District schools emerge from the darkest stages of the pandemic, experts and community activists say they are seeing a degree of need that is not being captured in much of the data emerging right now.&lt;/p&gt;
+
+&lt;p&gt;Community activist and former teacher Lauren Grimes said that mental health services are critical to the young people she works with.&lt;/p&gt;
+
+&lt;p&gt;“The students,” she said, “really really need help - them and their families.”&lt;/p&gt;
+
+&lt;p&gt;Grimes, whose organization the Community Enrichment Project works with students from underserved communities in Wards 7 and 8, said that part of the problem is that there simply aren’t enough mental health professionals in the building.&lt;/p&gt;
+
+&lt;p&gt;“Social workers, they have these huge caseloads,” Grimes said, “and they’re not always able to reach the students the way they want to.”&lt;/p&gt;
+
+&lt;p&gt;Although the American School Counselor Association (ASCA) recommends that a single social worker or counselor should oversee &lt;a href=&quot;https://www.schoolcounselor.org/About-School-Counseling/School-Counselor-Roles-Ratios&quot;&gt;no more than 250 students&lt;/a&gt;, in D.C. social &lt;a href=&quot;https://hopefulfutures.us/action-dc/&quot;&gt;workers oversee&lt;/a&gt; an average of 365 students and counselors oversee 511 students. The only metric where D.C. overperformed was in terms of school psychologists, with a psychologist-to-student ratio of 1:410 - well under the recommended ratio of 1:500.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://flo.uri.sh/visualisation/9786490/embed&quot; title=&quot;Interactive or visual content&quot; class=&quot;flourish-embed-iframe&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;width:100%;height:600px;&quot; sandbox=&quot;allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;width:100%!;margin-top:4px!important;text-align:right!important;&quot;&gt;&lt;a class=&quot;flourish-credit&quot; href=&quot;https://public.flourish.studio/visualisation/9786490/?utm_source=embed&amp;amp;utm_campaign=visualisation/9786490&quot; target=&quot;_top&quot; style=&quot;text-decoration:none!important&quot;&gt;&lt;img alt=&quot;Made with Flourish&quot; src=&quot;https://public.flourish.studio/resources/made_with_flourish.svg&quot; style=&quot;width:105px!important;height:16px!important;border:none!important;margin:0!important;&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Over the pandemic, DC began to ramp up its mental health supports. Teachers and staff at many local education agencies (LEAs) were trained in how to &lt;a href=&quot;https://www.dcpolicycenter.org/publications/dc-voices-mental-health-services-for-students/&quot;&gt;integrate socio-emotional learning&lt;/a&gt; into school curriculums, and schools partnered with community-based organizations (CBOs) and the Department of Behavioral Health (DBH) to establish more clinician positions in DC Schools. But as of &lt;a href=&quot;https://dbh.dc.gov/node/1500291&quot;&gt;March 2022&lt;/a&gt;, 20 schools had DBH clinician vacancies and 69 had vacancies for CBO clinicians.&lt;/p&gt;
+
+&lt;p&gt;In focus groups held by the DC Policy Center, &lt;a href=&quot;https://www.dcpolicycenter.org/publications/state-of-dc-schools-20-21/&quot;&gt;students shared&lt;/a&gt; that it was challenging to connect virtually with mental health staff at their schools and find private spaces at home.&lt;/p&gt;
+
+&lt;p&gt;But some students don’t even make it that far. Grimes says that some students she works with aren’t always even aware of the supports that are available to them or willing to access those resources when they are. She attributes this partially to poor communication on the part of the school, as well as the hesitancy of students to be fully open with people who are mandated reporters.&lt;/p&gt;
+
+&lt;p&gt;Grimes and Kristi Matthews, a coordinator of the grassroots organization DC Girls Coalition, say this literal and functional lack of support is especially acute among DC’s under-resourced students - like the youth they work with.&lt;/p&gt;
+
+&lt;p&gt;Research has shown that &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/22183690/#:~:text=Results%3A%20For%20each%20SES%20indicator,disorders%20stronger%20than%20internalizing%20disorders.&quot;&gt;children who grow up&lt;/a&gt; in poor socioeconomic conditions are especially vulnerable to mental health issues.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://flo.uri.sh/story/1435029/embed&quot; title=&quot;Interactive or visual content&quot; class=&quot;flourish-embed-iframe&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;width:100%;height:600px;&quot; sandbox=&quot;allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;width:100%!;margin-top:4px!important;text-align:right!important;&quot;&gt;&lt;a class=&quot;flourish-credit&quot; href=&quot;https://public.flourish.studio/story/1435029/?utm_source=embed&amp;amp;utm_campaign=story/1435029&quot; target=&quot;_top&quot; style=&quot;text-decoration:none!important&quot;&gt;&lt;img alt=&quot;Made with Flourish&quot; src=&quot;https://public.flourish.studio/resources/made_with_flourish.svg&quot; style=&quot;width:105px!important;height:16px!important;border:none!important;margin:0!important;&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Despite the District’s efforts to ramp up mental health support and outreach, Matthews says that most of the resources were being directed toward children diagnosed prior to the pandemic - already a disproportionately wealthy and white demographic &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3011932/&quot;&gt;given the socioeconomic barriers&lt;/a&gt; to formal diagnosis.&lt;/p&gt;
+
+&lt;p&gt;This “left a lot of our students who developed anxiety, depression, trauma within the pandemic in the lurch,” Matthews said.&lt;/p&gt;
+
+&lt;p&gt;Students designated as “at-risk” in D.C. schools are &lt;a href=&quot;https://www.washingtonpost.com/news/local/wp/2015/02/06/at-risk-funding-in-the-district-school-by-school/&quot;&gt;supposed to get increased funds&lt;/a&gt; for mental health, but those resources have a history of being diverted - up to and including the present year. The funding, which was first allocated by the D.C. Council in 2014, is supposed to provide added support to students considered to be at risk of academic failure, according to longtime financial analyst Mary Levy.&lt;/p&gt;
+
+&lt;p&gt;This includes students who are homeless, qualify for welfare or food stamps or are more than a year behind in school.&lt;/p&gt;
+
+&lt;p&gt;In this year alone, Levy said D.C. Public Schools (DCPS) illegally misspent millions of dollars of those funds on other services - something she has continued to testify about in front of various DC Council Committees.&lt;/p&gt;
+
+&lt;p&gt;The idea, Levy said, was for the money to provide funds for after-school programs and services like attendance counselors and mental health professionals. They don’t have to solely benefit at-risk children, she said, but they do need to be in the interests of those children.&lt;/p&gt;
+
+&lt;p&gt;“The problem is that some schools hardly have to use any of their at-risk money to buy basic services,” Levy said, “whereas others have to use a lot of their at-risk money for basic services.”&lt;/p&gt;
+
+&lt;p&gt;“Unfortunately that means the schools serving more students considered at-risk are more likely to see their funds misused,” said Erin Roth, director of education research at the Office of the District of Columbia Auditor who co-wrote a &lt;a href=&quot;https://dcauditor.org/report/d-c-schools-shortchange-at-risk-students/&quot;&gt;2019 report on the issue&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;“You just can’t really misspend [the funds] in wealthy schools because you don’t have them,” she said.&lt;/p&gt;
+
+&lt;p&gt;Mental health, Roth said, was a key area where funds were misallocated.&lt;/p&gt;
+
+&lt;p&gt;“Especially when we see these funds being misspent for mental health resources in schools,” Roth said, “I think it’s particularly unfair and harmful.” The report found that DCPS misused nearly all of the at-risk funds budgeted for social workers and psychologists in high schools, and “dramatically underfunded high school social-emotional support positions.”&lt;/p&gt;
+
+&lt;p&gt;Schools in the most need of counselors, according to the report, ended up getting the fewest.&lt;/p&gt;
+
+&lt;p&gt;While Grimes and Matthews say that funding needs to be allocated more equitably towards existing at-risk students, they also think term should be expanded. Matthews says that the “at-risk” categorization itself is only able to capture some of the significant need present in D.C. There are students, she said “who they might not technically deem as at risk, who are 100% at risk”&lt;/p&gt;
+
+&lt;p&gt;In 2021, the District of Columbia Public School System (DCPS) &lt;a href=&quot;https://dcps.dc.gov/page/dcps-glance-enrollment&quot;&gt;reported that&lt;/a&gt; 42% of students in the schools it oversaw were at-risk. In the same year, 75% of students were identified as economically disadvantaged.&lt;/p&gt;
+
+&lt;p&gt;A coalition of dozens of community organizations across D.C. have &lt;a href=&quot;https://www.washingtonpost.com/education/2022/04/09/dc-schools-at-risk-kids/&quot;&gt;called on the District&lt;/a&gt; to expand the definition of “at-risk,” to include undocumented students, adult learners, and students with incarcerated parents.&lt;/p&gt;
+
+&lt;p&gt;In the absence of institutional support, community-based organizations have had to step in to address an expansive need that has emerged over the pandemic. For Matthews’ organization, that meant, among other things, holding a series of six “healing circles” for Black and brown youth last summer.&lt;/p&gt;
+
+&lt;p&gt;“We had a community healer come and work with 35 young people around ways to develop coping mechanisms and skills to cope with anxiety and depression and trauma and stress,” said Matthews.&lt;/p&gt;
+
+&lt;p&gt;Although they are constrained by limited funding, Matthews said that they have tried to keep up those supports throughout the year. She said that this summer she hopes to continue to help the students she works with through more healing circles.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 May 2022 08:00:00 -0400</pubDate>
+        <link>http://comm-260.github.io/spring-2022/spring-2022/dc-mental-health-covid/</link>
+        <guid isPermaLink="true">http://comm-260.github.io/spring-2022/spring-2022/dc-mental-health-covid/</guid>
+        
+        
+        <category>mental_health</category>
+        
+      </item>
+    
+  </channel>
+</rss>

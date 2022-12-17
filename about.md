@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Final projects from students in Quantitative Methods & Data Visualization at American University Spring 2022.
+Final projects from students in Quantitative Methods & Data Visualization at American University Fall 2022.
